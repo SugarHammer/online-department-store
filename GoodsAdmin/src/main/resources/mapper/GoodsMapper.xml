@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--namespace = 绑定一个对应的Dao/Mapper接口-->
+<!--接口实现类由原来的接口实现类GoodsDaoImpl转变一个Mapper配置文件-->
+<mapper namespace="com.mapper.GoodsMapper">
+    <!--    根据gid查询一个货物列表-->
+    <select id="selectGoodsById" parameterType="Integer" resultType="Goods">
+        select * from goods where gid = #{gid}
+    </select>
+
+    <!--    根据gname查询一个货物列表-->
+    <select id="selectGoodsByName" parameterType="String" resultType="Goods" >
+        select * from goods where gname = #{gname}
+    </select>
+
+    <!--    查询所有货物信息-->
+    <select id="selectAllGoods" resultType="Goods">
+        select * from goods
+    </select>
+
+    <!--    添加数据到货物表-->
+    <insert id="addGoods" parameterType="Goods">
+        insert into goods (gname,gprice,pthumbnail,gdesc) values(#{gname},#{gprice},#{pthumbnail},#{gdesc})
+    </insert>
+
+    <!--    修改一个货物信息-->
+    <update id="updateGoods" parameterType="Goods">
+        update goods set gname = #{gname},gprice = #{gprice},pthumbnail = #{pthumbnail},gdesc = #{gdesc} where gid = #{gid}
+    </update>
+
+    <!--    删除一个货物-->
+    <delete id="deleteGoodsById" parameterType="Integer">
+        delete from goods where gid = #{gid}
+    </delete>
+
+    <!--    根据name，删除一个货物-->
+    <delete id="deleteGoodsByName" parameterType="String">
+        delete from goods where gname = #{gname}
+    </delete>
+
+    <!--    根据关键词查询一个货物列表-->
+    <select id="searchGoods"  resultType="Goods">
+        SELECT * FROM goods WHERE gdesc like '%${keyword}%'
+    </select>
+
+    <!--    批量添加数据  -->
+    <insert id="addBatchGoods" parameterType="Goods">
+        insert into goods (gname,gprice,pthumbnail,gdesc)
+        values
+        <foreach collection="goods" item="good" separator=",">
+            (#{good.gname},#{good.gprice},#{good.pthumbnail},#{good.gdesc})
+        </foreach>
+    </insert>
+
+<!--    根据商品id查询商家-->
+    <select id="selectGoodsByIdWithStore" parameterType="Integer" resultType="GoodsDTO">
+        select * from goods g join store s on s.byGoods=g.gid where gid = #{gid}
+    </select>
+
+</mapper>

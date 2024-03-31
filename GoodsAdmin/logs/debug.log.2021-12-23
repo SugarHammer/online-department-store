@@ -1,0 +1,1507 @@
+2021-12-23 15:04:25  [ http-nio-8081-exec-1:0 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:04:25  [ http-nio-8081-exec-2:531 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:05:00  [ http-nio-8081-exec-4:34946 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:05:00  [ http-nio-8081-exec-4:34947 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:05:05  [ http-nio-8081-exec-7:40584 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:05:05  [ http-nio-8081-exec-7:40585 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:06:16  [ http-nio-8081-exec-9:111320 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:06:16  [ http-nio-8081-exec-9:111320 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:08:14  [ http-nio-8081-exec-2:229541 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:08:15  [ http-nio-8081-exec-3:229747 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:08:17  [ http-nio-8081-exec-5:232404 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:08:17  [ http-nio-8081-exec-5:232405 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:08:19  [ http-nio-8081-exec-6:234153 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:08:29  [ http-nio-8081-exec-7:243786 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:08:29  [ http-nio-8081-exec-7:243786 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:08:29  [ http-nio-8081-exec-9:244445 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:08:29  [ http-nio-8081-exec-9:244447 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:12  [ http-nio-8081-exec-1:287250 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:09:14  [ http-nio-8081-exec-2:289156 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:14  [ http-nio-8081-exec-2:289157 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:15  [ http-nio-8081-exec-4:290242 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:15  [ http-nio-8081-exec-4:290243 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:20  [ http-nio-8081-exec-6:295447 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:09:26  [ http-nio-8081-exec-8:300790 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:26  [ http-nio-8081-exec-8:300790 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:27  [ http-nio-8081-exec-9:302136 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:09:28  [ http-nio-8081-exec-1:303055 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:28  [ http-nio-8081-exec-1:303055 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:29  [ http-nio-8081-exec-2:304003 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:29  [ http-nio-8081-exec-2:304004 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:29  [ http-nio-8081-exec-2:304006 ] - [ INFO ]  /toShoppingCart start...
+2021-12-23 15:09:30  [ http-nio-8081-exec-3:305658 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:30  [ http-nio-8081-exec-3:305659 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:33  [ http-nio-8081-exec-4:308637 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:33  [ http-nio-8081-exec-4:308637 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:33  [ http-nio-8081-exec-4:308675 ] - [ INFO ]  /deleteAllCart start...
+2021-12-23 15:09:34  [ http-nio-8081-exec-5:308900 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:34  [ http-nio-8081-exec-5:308900 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:36  [ http-nio-8081-exec-7:311081 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:36  [ http-nio-8081-exec-7:311082 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:38  [ http-nio-8081-exec-8:313181 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:09:40  [ http-nio-8081-exec-10:315271 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:40  [ http-nio-8081-exec-10:315272 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:42  [ http-nio-8081-exec-1:316759 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:42  [ http-nio-8081-exec-1:316760 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:42  [ http-nio-8081-exec-1:316761 ] - [ INFO ]  /toShoppingCart start...
+2021-12-23 15:09:43  [ http-nio-8081-exec-2:318451 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:09:48  [ http-nio-8081-exec-4:322941 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:48  [ http-nio-8081-exec-4:322942 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:58  [ http-nio-8081-exec-5:332808 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:58  [ http-nio-8081-exec-5:332808 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:59  [ http-nio-8081-exec-7:334393 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:09:59  [ http-nio-8081-exec-7:334393 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:00  [ http-nio-8081-exec-8:335637 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:10:02  [ http-nio-8081-exec-10:337263 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:02  [ http-nio-8081-exec-10:337264 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:10  [ http-nio-8081-exec-1:345358 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:10  [ http-nio-8081-exec-1:345359 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:12  [ http-nio-8081-exec-3:346772 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:12  [ http-nio-8081-exec-3:346773 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:14  [ http-nio-8081-exec-4:349034 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:10:34  [ http-nio-8081-exec-5:368775 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:34  [ http-nio-8081-exec-5:368775 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:35  [ http-nio-8081-exec-7:369989 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:35  [ http-nio-8081-exec-7:369990 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:10:35  [ http-nio-8081-exec-8:370028 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:10:50  [ http-nio-8081-exec-2:384777 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:10:54  [ http-nio-8081-exec-7:388765 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:10:55  [ http-nio-8081-exec-9:389940 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:11:09  [ http-nio-8081-exec-1:404443 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:11:09  [ http-nio-8081-exec-1:404443 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:11:13  [ http-nio-8081-exec-2:408009 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:11:13  [ http-nio-8081-exec-2:408009 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:11:13  [ http-nio-8081-exec-3:408048 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:11:14  [ http-nio-8081-exec-5:409648 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:11:14  [ http-nio-8081-exec-5:409648 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:11:56  [ http-nio-8081-exec-7:451105 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:11:56  [ http-nio-8081-exec-7:451106 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:13:17  [ http-nio-8081-exec-9:531843 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:13:17  [ http-nio-8081-exec-9:531843 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:06  [ http-nio-8081-exec-1:701181 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:06  [ http-nio-8081-exec-1:701181 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:08  [ http-nio-8081-exec-2:703547 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:08  [ http-nio-8081-exec-2:703547 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:09  [ http-nio-8081-exec-3:704537 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:09  [ http-nio-8081-exec-3:704538 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:11  [ http-nio-8081-exec-4:705931 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:11  [ http-nio-8081-exec-4:705932 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:11  [ http-nio-8081-exec-5:706059 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:16:12  [ http-nio-8081-exec-6:707355 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:12  [ http-nio-8081-exec-6:707356 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:18  [ http-nio-8081-exec-7:712947 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:16:18  [ http-nio-8081-exec-7:712947 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:18:06  [ http-nio-8081-exec-9:821034 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:18:06  [ http-nio-8081-exec-9:821034 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:19:15  [ http-nio-8081-exec-2:890185 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:19:15  [ http-nio-8081-exec-2:890185 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:19:39  [ http-nio-8081-exec-3:914583 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:19:39  [ http-nio-8081-exec-3:914583 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:19:41  [ http-nio-8081-exec-4:916622 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:19:41  [ http-nio-8081-exec-4:916622 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:19:44  [ http-nio-8081-exec-5:919462 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:19:51  [ http-nio-8081-exec-6:926552 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:19:51  [ http-nio-8081-exec-6:926552 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:27:43  [ http-nio-8081-exec-8:1397889 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:27:43  [ http-nio-8081-exec-8:1397890 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:27:43  [ http-nio-8081-exec-9:1398272 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:27:55  [ http-nio-8081-exec-1:1410217 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:27:55  [ http-nio-8081-exec-1:1410217 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@2099262
+2021-12-23 15:30:03  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@45014b07
+2021-12-23 15:30:03  [ http-nio-8081-exec-1:2 ] - [ INFO ]  存储的结果为:null
+2021-12-23 15:30:04  [ http-nio-8081-exec-3:969 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@45014b07
+2021-12-23 15:30:04  [ http-nio-8081-exec-3:970 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@45014b07
+2021-12-23 15:30:05  [ http-nio-8081-exec-4:2497 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@45014b07
+2021-12-23 15:30:05  [ http-nio-8081-exec-4:2498 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@45014b07
+2021-12-23 15:30:05  [ http-nio-8081-exec-5:2551 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:30:06  [ http-nio-8081-exec-6:3370 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@45014b07
+2021-12-23 15:30:06  [ http-nio-8081-exec-6:3370 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@45014b07
+2021-12-23 15:30:11  [ http-nio-8081-exec-9:7826 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@1c366cae
+2021-12-23 15:30:11  [ http-nio-8081-exec-9:7826 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@45014b07
+2021-12-23 15:30:11  [ http-nio-8081-exec-8:7847 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:30:46  [ http-nio-8081-exec-2:42898 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@582a9c58
+2021-12-23 15:30:46  [ http-nio-8081-exec-2:42899 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@45014b07
+2021-12-23 15:30:46  [ http-nio-8081-exec-3:42918 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:31:13  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:31:13  [ http-nio-8081-exec-1:2 ] - [ INFO ]  存储的结果为:null
+2021-12-23 15:31:13  [ http-nio-8081-exec-5:940 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:31:13  [ http-nio-8081-exec-5:941 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:31:15  [ http-nio-8081-exec-4:2017 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:31:15  [ http-nio-8081-exec-4:2018 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:31:17  [ http-nio-8081-exec-10:4329 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:31:17  [ http-nio-8081-exec-10:4330 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:31:17  [ http-nio-8081-exec-8:4366 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:31:24  [ http-nio-8081-exec-1:11597 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:31:27  [ http-nio-8081-exec-5:14559 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:31:29  [ http-nio-8081-exec-3:16466 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:31:32  [ http-nio-8081-exec-6:19343 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:31:32  [ http-nio-8081-exec-6:19343 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:34:08  [ http-nio-8081-exec-9:174996 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:34:08  [ http-nio-8081-exec-9:174996 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:34:50  [ http-nio-8081-exec-7:217525 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:35:25  [ http-nio-8081-exec-2:252342 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-2:252342 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-4:252416 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-4:252416 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-3:252416 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-3:252417 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-5:252416 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-5:252417 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-5:252427 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-5:252428 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-4:252427 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-3:252427 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-3:252429 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:25  [ http-nio-8081-exec-4:252428 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:26  [ http-nio-8081-exec-6:253068 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:26  [ http-nio-8081-exec-6:253068 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:26  [ http-nio-8081-exec-10:253105 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:26  [ http-nio-8081-exec-10:253105 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:26  [ http-nio-8081-exec-10:253108 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:26  [ http-nio-8081-exec-10:253108 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:26  [ http-nio-8081-exec-8:253700 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:26  [ http-nio-8081-exec-8:253701 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:28  [ http-nio-8081-exec-9:255736 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:28  [ http-nio-8081-exec-9:255737 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:32  [ http-nio-8081-exec-7:258986 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:32  [ http-nio-8081-exec-7:258986 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:32  [ http-nio-8081-exec-1:259021 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:35:37  [ http-nio-8081-exec-2:264803 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:37  [ http-nio-8081-exec-2:264804 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:42  [ http-nio-8081-exec-3:269109 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:35:42  [ http-nio-8081-exec-3:269109 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:37:39  [ http-nio-8081-exec-8:386504 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:37:39  [ http-nio-8081-exec-8:386504 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:40:03  [ http-nio-8081-exec-1:530899 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:40:03  [ http-nio-8081-exec-1:530900 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:40:14  [ http-nio-8081-exec-5:541000 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:40:14  [ http-nio-8081-exec-5:541000 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:40:15  [ http-nio-8081-exec-6:542870 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:40:15  [ http-nio-8081-exec-6:542870 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:40:35  [ http-nio-8081-exec-10:562848 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:40:35  [ http-nio-8081-exec-10:562848 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:42:46  [ http-nio-8081-exec-7:693310 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:42:46  [ http-nio-8081-exec-7:693311 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:42:48  [ http-nio-8081-exec-1:695289 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:42:48  [ http-nio-8081-exec-1:695290 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:42:50  [ http-nio-8081-exec-3:697409 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:42:50  [ http-nio-8081-exec-3:697409 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:42:52  [ http-nio-8081-exec-5:699145 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:42:52  [ http-nio-8081-exec-5:699146 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:03  [ http-nio-8081-exec-4:710798 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:03  [ http-nio-8081-exec-4:710799 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:07  [ http-nio-8081-exec-8:714103 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:07  [ http-nio-8081-exec-8:714103 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:08  [ http-nio-8081-exec-9:715595 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:08  [ http-nio-8081-exec-9:715596 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:08  [ http-nio-8081-exec-7:715650 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:08  [ http-nio-8081-exec-7:715650 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:08  [ http-nio-8081-exec-7:715651 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:43:13  [ http-nio-8081-exec-2:720322 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:13  [ http-nio-8081-exec-2:720322 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:13  [ http-nio-8081-exec-3:720322 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:13  [ http-nio-8081-exec-3:720323 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:13  [ http-nio-8081-exec-3:720323 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:43:13  [ http-nio-8081-exec-2:720323 ] - [ INFO ]  /addCart start...
+2021-12-23 15:43:13  [ http-nio-8081-exec-5:720331 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:13  [ http-nio-8081-exec-5:720332 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:13  [ http-nio-8081-exec-5:720333 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:43:13  [ http-nio-8081-exec-6:720354 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:13  [ http-nio-8081-exec-6:720354 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:13  [ http-nio-8081-exec-6:720354 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:43:14  [ http-nio-8081-exec-4:721730 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:14  [ http-nio-8081-exec-4:721731 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:14  [ http-nio-8081-exec-4:721731 ] - [ INFO ]  /selectCartById start...
+2021-12-23 15:43:22  [ http-nio-8081-exec-8:729024 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:22  [ http-nio-8081-exec-8:729024 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:22  [ http-nio-8081-exec-8:729025 ] - [ INFO ]  /updateCart start...
+2021-12-23 15:43:22  [ http-nio-8081-exec-9:729049 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:22  [ http-nio-8081-exec-9:729049 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:22  [ http-nio-8081-exec-9:729050 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:43:24  [ http-nio-8081-exec-7:731896 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:24  [ http-nio-8081-exec-7:731896 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:24  [ http-nio-8081-exec-7:731897 ] - [ INFO ]  /deleteCart start...
+2021-12-23 15:43:24  [ http-nio-8081-exec-1:731921 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:24  [ http-nio-8081-exec-1:731922 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:24  [ http-nio-8081-exec-1:731922 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:43:30  [ http-nio-8081-exec-2:737068 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:30  [ http-nio-8081-exec-2:737068 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:30  [ http-nio-8081-exec-5:737068 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:30  [ http-nio-8081-exec-5:737069 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:30  [ http-nio-8081-exec-2:737069 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:43:30  [ http-nio-8081-exec-5:737069 ] - [ INFO ]  /addCart start...
+2021-12-23 15:43:30  [ http-nio-8081-exec-6:737073 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:30  [ http-nio-8081-exec-6:737075 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:30  [ http-nio-8081-exec-6:737075 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:43:30  [ http-nio-8081-exec-4:737115 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:30  [ http-nio-8081-exec-4:737115 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:30  [ http-nio-8081-exec-4:737116 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:43:33  [ http-nio-8081-exec-8:740039 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:33  [ http-nio-8081-exec-8:740039 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:43:33  [ http-nio-8081-exec-8:740040 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:44:03  [ http-nio-8081-exec-7:770597 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:03  [ http-nio-8081-exec-7:770597 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:07  [ http-nio-8081-exec-3:774057 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:07  [ http-nio-8081-exec-3:774057 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-2:776113 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-2:776113 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-6:776161 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-6:776161 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-5:776161 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-5:776161 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-4:776161 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-4:776162 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-6:776170 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-4:776170 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-4:776171 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-5:776170 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-5:776171 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-6:776171 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-10:776787 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-10:776787 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-8:776826 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-8:776826 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-8:776829 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:09  [ http-nio-8081-exec-8:776829 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:10  [ http-nio-8081-exec-9:777264 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:10  [ http-nio-8081-exec-9:777264 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-7:777996 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-7:777997 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-3:778027 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-1:778027 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-1:778027 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-2:778027 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-3:778027 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-2:778028 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-1:778029 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-1:778029 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-2:778029 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-2:778029 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-3:778029 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-3:778030 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-5:778619 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:11  [ http-nio-8081-exec-5:778620 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:16  [ http-nio-8081-exec-6:783084 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:16  [ http-nio-8081-exec-6:783084 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:16  [ http-nio-8081-exec-4:783141 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:44:17  [ http-nio-8081-exec-10:784194 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:17  [ http-nio-8081-exec-10:784194 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:17  [ http-nio-8081-exec-8:784232 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:17  [ http-nio-8081-exec-8:784232 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:17  [ http-nio-8081-exec-8:784233 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:44:25  [ http-nio-8081-exec-9:792300 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:25  [ http-nio-8081-exec-9:792300 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:26  [ http-nio-8081-exec-7:793196 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:26  [ http-nio-8081-exec-7:793196 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:26  [ http-nio-8081-exec-1:793891 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:26  [ http-nio-8081-exec-1:793891 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:27  [ http-nio-8081-exec-2:794722 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:27  [ http-nio-8081-exec-2:794722 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:28  [ http-nio-8081-exec-3:795184 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:28  [ http-nio-8081-exec-3:795184 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:28  [ http-nio-8081-exec-5:795216 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:44:30  [ http-nio-8081-exec-6:797275 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:30  [ http-nio-8081-exec-6:797275 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:30  [ http-nio-8081-exec-4:797306 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:30  [ http-nio-8081-exec-4:797306 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:30  [ http-nio-8081-exec-4:797306 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 15:44:48  [ http-nio-8081-exec-10:815939 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:48  [ http-nio-8081-exec-10:815939 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:44:55  [ http-nio-8081-exec-9:822298 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:44:55  [ http-nio-8081-exec-7:822910 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:45:03  [ http-nio-8081-exec-5:830839 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:45:45  [ http-nio-8081-exec-6:872710 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:45:45  [ http-nio-8081-exec-6:872710 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:45:45  [ http-nio-8081-exec-4:872768 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:45:46  [ http-nio-8081-exec-10:873586 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:45:46  [ http-nio-8081-exec-10:873586 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:46:05  [ http-nio-8081-exec-1:892801 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:46:05  [ http-nio-8081-exec-1:892801 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:46:05  [ http-nio-8081-exec-2:892843 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 15:46:06  [ http-nio-8081-exec-5:893695 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:46:06  [ http-nio-8081-exec-5:893695 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:46:06  [ http-nio-8081-exec-6:893730 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:46:06  [ http-nio-8081-exec-6:893730 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 15:46:06  [ http-nio-8081-exec-6:893731 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 16:28:10  [ http-nio-8081-exec-10:3417460 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:10  [ http-nio-8081-exec-10:3417460 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@52f4b2a6
+2021-12-23 16:28:12  [ http-nio-8081-exec-9:3418991 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:12  [ http-nio-8081-exec-9:3418991 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:14  [ http-nio-8081-exec-7:3421295 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:14  [ http-nio-8081-exec-7:3421295 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:15  [ http-nio-8081-exec-2:3422533 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:15  [ http-nio-8081-exec-2:3422533 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:34  [ http-nio-8081-exec-3:3440980 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:34  [ http-nio-8081-exec-3:3440980 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:35  [ http-nio-8081-exec-6:3442095 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:35  [ http-nio-8081-exec-6:3442095 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:35  [ http-nio-8081-exec-4:3442129 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 16:28:39  [ http-nio-8081-exec-10:3446356 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:39  [ http-nio-8081-exec-10:3446357 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:39  [ http-nio-8081-exec-8:3446407 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:39  [ http-nio-8081-exec-8:3446407 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:39  [ http-nio-8081-exec-8:3446408 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 16:28:41  [ http-nio-8081-exec-9:3448067 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:41  [ http-nio-8081-exec-9:3448067 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@49a3bc4a
+2021-12-23 16:28:41  [ http-nio-8081-exec-7:3448104 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 17:27:59  [ http-nio-8081-exec-3:7006054 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 17:27:59  [ http-nio-8081-exec-5:7006649 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 17:28:00  [ http-nio-8081-exec-4:7007261 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:00  [ http-nio-8081-exec-4:7007261 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:01  [ http-nio-8081-exec-8:7008686 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:01  [ http-nio-8081-exec-8:7008687 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:02  [ http-nio-8081-exec-7:7009216 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:02  [ http-nio-8081-exec-7:7009216 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:05  [ http-nio-8081-exec-2:7012713 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:05  [ http-nio-8081-exec-2:7012713 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:22  [ http-nio-8081-exec-5:7028954 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:22  [ http-nio-8081-exec-5:7028954 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:23  [ http-nio-8081-exec-4:7029953 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:23  [ http-nio-8081-exec-4:7029954 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:23  [ http-nio-8081-exec-8:7030279 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:23  [ http-nio-8081-exec-8:7030279 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:23  [ http-nio-8081-exec-7:7030594 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:23  [ http-nio-8081-exec-7:7030595 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:23  [ http-nio-8081-exec-2:7030907 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:23  [ http-nio-8081-exec-2:7030907 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:26  [ http-nio-8081-exec-5:7033516 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:26  [ http-nio-8081-exec-5:7033516 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:26  [ http-nio-8081-exec-6:7033752 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:26  [ http-nio-8081-exec-6:7033752 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:26  [ http-nio-8081-exec-10:7033848 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:26  [ http-nio-8081-exec-10:7033849 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:28  [ http-nio-8081-exec-7:7035319 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:28  [ http-nio-8081-exec-7:7035319 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:28  [ http-nio-8081-exec-2:7035638 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:28  [ http-nio-8081-exec-2:7035639 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:57  [ http-nio-8081-exec-3:7064151 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:28:57  [ http-nio-8081-exec-3:7064152 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 17:30:02  [ http-nio-8081-exec-6:7129643 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 17:36:05  [ http-nio-8081-exec-4:7492237 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 17:47:56  [ http-nio-8081-exec-7:8203199 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 17:48:04  [ http-nio-8081-exec-5:8211170 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 17:48:06  [ http-nio-8081-exec-4:8213487 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 17:48:08  [ http-nio-8081-exec-8:8215096 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 18:53:38  [ http-nio-8081-exec-1:12145800 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:53:38  [ http-nio-8081-exec-1:12145801 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7676fa74
+2021-12-23 18:53:40  [ http-nio-8081-exec-3:12147538 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:53:40  [ http-nio-8081-exec-3:12147539 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:30  [ http-nio-8081-exec-6:12377430 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:30  [ http-nio-8081-exec-6:12377430 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:32  [ http-nio-8081-exec-10:12379118 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:32  [ http-nio-8081-exec-10:12379119 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:34  [ http-nio-8081-exec-8:12381846 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:34  [ http-nio-8081-exec-8:12381846 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:34  [ http-nio-8081-exec-9:12381906 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:34  [ http-nio-8081-exec-9:12381906 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:34  [ http-nio-8081-exec-9:12381911 ] - [ INFO ]  /selectAllComments start...
+2021-12-23 18:57:44  [ http-nio-8081-exec-7:12391834 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:44  [ http-nio-8081-exec-7:12391835 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:49  [ http-nio-8081-exec-1:12396535 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:49  [ http-nio-8081-exec-1:12396536 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:49  [ http-nio-8081-exec-2:12396649 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:49  [ http-nio-8081-exec-2:12396650 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:49  [ http-nio-8081-exec-2:12396651 ] - [ INFO ]  /selectAllComments start...
+2021-12-23 18:57:51  [ http-nio-8081-exec-3:12398514 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:51  [ http-nio-8081-exec-3:12398514 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:54  [ http-nio-8081-exec-5:12401705 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:54  [ http-nio-8081-exec-5:12401705 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:58  [ http-nio-8081-exec-6:12405209 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:58  [ http-nio-8081-exec-6:12405209 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:58  [ http-nio-8081-exec-4:12405256 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:58  [ http-nio-8081-exec-4:12405256 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:57:58  [ http-nio-8081-exec-4:12405256 ] - [ INFO ]  /selectAllComments start...
+2021-12-23 18:58:00  [ http-nio-8081-exec-10:12407548 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:58:00  [ http-nio-8081-exec-10:12407548 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:58:00  [ http-nio-8081-exec-8:12407568 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:58:00  [ http-nio-8081-exec-8:12407568 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:58:00  [ http-nio-8081-exec-8:12407569 ] - [ INFO ]  /selectAllComments start...
+2021-12-23 18:58:10  [ http-nio-8081-exec-9:12417925 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:58:10  [ http-nio-8081-exec-9:12417925 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:58:16  [ http-nio-8081-exec-7:12422978 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 18:58:16  [ http-nio-8081-exec-7:12422978 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 19:27:54  [ http-nio-8081-exec-2:14201291 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 19:27:54  [ http-nio-8081-exec-2:14201292 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 19:27:54  [ http-nio-8081-exec-3:14201369 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 19:27:54  [ http-nio-8081-exec-3:14201369 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 19:27:55  [ http-nio-8081-exec-5:14202026 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 19:27:55  [ http-nio-8081-exec-5:14202026 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@69818027
+2021-12-23 19:27:55  [ http-nio-8081-exec-5:14202028 ] - [ INFO ]  /selectAllComments start...
+2021-12-23 19:40:37  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:40:37  [ http-nio-8081-exec-1:4 ] - [ INFO ]  存储的结果为:null
+2021-12-23 19:40:38  [ http-nio-8081-exec-3:1229 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:40:38  [ http-nio-8081-exec-3:1233 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:40:43  [ http-nio-8081-exec-4:5638 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:40:43  [ http-nio-8081-exec-4:5639 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:40:43  [ http-nio-8081-exec-5:5852 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:40:43  [ http-nio-8081-exec-5:5854 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:40:43  [ http-nio-8081-exec-5:5895 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:40:43  [ http-nio-8081-exec-5:5897 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:41:26  [ http-nio-8081-exec-7:48891 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:41:26  [ http-nio-8081-exec-7:48892 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@316508cd
+2021-12-23 19:41:26  [ http-nio-8081-exec-8:49124 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 19:47:15  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:15  [ http-nio-8081-exec-1:7 ] - [ INFO ]  存储的结果为:null
+2021-12-23 19:47:17  [ http-nio-8081-exec-4:1857 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:17  [ http-nio-8081-exec-4:1859 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:21  [ http-nio-8081-exec-5:5846 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:21  [ http-nio-8081-exec-5:5847 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:21  [ http-nio-8081-exec-6:5948 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:21  [ http-nio-8081-exec-6:5949 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:21  [ http-nio-8081-exec-6:5969 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:21  [ http-nio-8081-exec-6:5969 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:30  [ http-nio-8081-exec-8:15009 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:30  [ http-nio-8081-exec-8:15011 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:30  [ http-nio-8081-exec-9:15217 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:30  [ http-nio-8081-exec-9:15219 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:30  [ http-nio-8081-exec-9:15224 ] - [ INFO ]  /selectAllComments start...
+2021-12-23 19:47:33  [ http-nio-8081-exec-10:17529 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:33  [ http-nio-8081-exec-10:17530 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:33  [ http-nio-8081-exec-1:17802 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:33  [ http-nio-8081-exec-1:17804 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:33  [ http-nio-8081-exec-1:17826 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:47:33  [ http-nio-8081-exec-1:17828 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:00  [ http-nio-8081-exec-3:45126 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:00  [ http-nio-8081-exec-3:45127 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:01  [ http-nio-8081-exec-4:45589 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:01  [ http-nio-8081-exec-4:45590 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:01  [ http-nio-8081-exec-4:45597 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:01  [ http-nio-8081-exec-4:45598 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:53  [ http-nio-8081-exec-6:98095 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:53  [ http-nio-8081-exec-6:98096 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:53  [ http-nio-8081-exec-6:98108 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:53  [ http-nio-8081-exec-6:98110 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:54  [ http-nio-8081-exec-7:99126 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:54  [ http-nio-8081-exec-7:99127 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:54  [ http-nio-8081-exec-7:99142 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:48:54  [ http-nio-8081-exec-7:99143 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:00  [ http-nio-8081-exec-10:104769 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:00  [ http-nio-8081-exec-10:104770 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:00  [ http-nio-8081-exec-10:104785 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:00  [ http-nio-8081-exec-10:104786 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:30  [ http-nio-8081-exec-3:135208 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:30  [ http-nio-8081-exec-3:135209 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:30  [ http-nio-8081-exec-3:135215 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:30  [ http-nio-8081-exec-3:135217 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:43  [ http-nio-8081-exec-6:147495 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:43  [ http-nio-8081-exec-6:147495 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:43  [ http-nio-8081-exec-6:147500 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:43  [ http-nio-8081-exec-6:147501 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:47  [ http-nio-8081-exec-9:151775 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:47  [ http-nio-8081-exec-9:151775 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:49:47  [ http-nio-8081-exec-10:151956 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 19:49:55  [ http-nio-8081-exec-1:160173 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 19:50:04  [ http-nio-8081-exec-4:168641 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:50:04  [ http-nio-8081-exec-4:168642 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:50:04  [ http-nio-8081-exec-5:168726 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:50:04  [ http-nio-8081-exec-5:168727 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:50:04  [ http-nio-8081-exec-5:168745 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:50:04  [ http-nio-8081-exec-5:168747 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:50:11  [ http-nio-8081-exec-7:176249 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:50:11  [ http-nio-8081-exec-7:176249 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:50:12  [ http-nio-8081-exec-7:176255 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:50:12  [ http-nio-8081-exec-7:176256 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:51:33  [ http-nio-8081-exec-2:257760 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:51:33  [ http-nio-8081-exec-2:257761 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:51:33  [ http-nio-8081-exec-2:257766 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:51:33  [ http-nio-8081-exec-2:257767 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@327d3167
+2021-12-23 19:52:03  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:03  [ http-nio-8081-exec-1:4 ] - [ INFO ]  存储的结果为:null
+2021-12-23 19:52:10  [ http-nio-8081-exec-3:6126 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:10  [ http-nio-8081-exec-3:6129 ] - [ INFO ]  存储的结果为:null
+2021-12-23 19:52:11  [ http-nio-8081-exec-6:7716 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:11  [ http-nio-8081-exec-6:7717 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:13  [ http-nio-8081-exec-7:9183 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:13  [ http-nio-8081-exec-7:9183 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:13  [ http-nio-8081-exec-10:9288 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:13  [ http-nio-8081-exec-10:9289 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:13  [ http-nio-8081-exec-10:9303 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:13  [ http-nio-8081-exec-10:9304 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:17  [ http-nio-8081-exec-8:13544 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:17  [ http-nio-8081-exec-8:13545 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:17  [ http-nio-8081-exec-8:13548 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:52:17  [ http-nio-8081-exec-8:13549 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@7fad4ab8
+2021-12-23 19:56:35  [ http-nio-8081-exec-1:1 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:35  [ http-nio-8081-exec-1:7 ] - [ INFO ]  存储的结果为:null
+2021-12-23 19:56:36  [ http-nio-8081-exec-3:1690 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:36  [ http-nio-8081-exec-3:1693 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:38  [ http-nio-8081-exec-5:3514 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:38  [ http-nio-8081-exec-5:3514 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:38  [ http-nio-8081-exec-6:3696 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 19:56:40  [ http-nio-8081-exec-7:5584 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:40  [ http-nio-8081-exec-7:5585 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:42  [ http-nio-8081-exec-9:7832 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:42  [ http-nio-8081-exec-9:7832 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:42  [ http-nio-8081-exec-10:7908 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:42  [ http-nio-8081-exec-10:7908 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:42  [ http-nio-8081-exec-10:7910 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:56:57  [ http-nio-8081-exec-2:22227 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:57  [ http-nio-8081-exec-2:22228 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:57  [ http-nio-8081-exec-3:22265 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:57  [ http-nio-8081-exec-3:22265 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:57  [ http-nio-8081-exec-3:22266 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:56:57  [ http-nio-8081-exec-4:22275 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:57  [ http-nio-8081-exec-4:22275 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:57  [ http-nio-8081-exec-4:22276 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:56:58  [ http-nio-8081-exec-5:23343 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:56:58  [ http-nio-8081-exec-5:23343 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:00  [ http-nio-8081-exec-6:25247 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:00  [ http-nio-8081-exec-6:25247 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:37  [ http-nio-8081-exec-9:62904 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:37  [ http-nio-8081-exec-9:62906 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:38  [ http-nio-8081-exec-10:63345 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:38  [ http-nio-8081-exec-10:63346 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:38  [ http-nio-8081-exec-10:63347 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:57:39  [ http-nio-8081-exec-1:64336 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:39  [ http-nio-8081-exec-1:64336 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:41  [ http-nio-8081-exec-2:66380 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:41  [ http-nio-8081-exec-2:66380 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:46  [ http-nio-8081-exec-4:71101 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:46  [ http-nio-8081-exec-4:71101 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:48  [ http-nio-8081-exec-5:73250 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:48  [ http-nio-8081-exec-5:73251 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:48  [ http-nio-8081-exec-6:73342 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:48  [ http-nio-8081-exec-6:73343 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:48  [ http-nio-8081-exec-6:73344 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:57:52  [ http-nio-8081-exec-8:77670 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:52  [ http-nio-8081-exec-8:77670 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:52  [ http-nio-8081-exec-9:77785 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:52  [ http-nio-8081-exec-9:77786 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:52  [ http-nio-8081-exec-9:77787 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:57:52  [ http-nio-8081-exec-10:77803 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:52  [ http-nio-8081-exec-10:77805 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:52  [ http-nio-8081-exec-10:77805 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:57:53  [ http-nio-8081-exec-1:78651 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:53  [ http-nio-8081-exec-1:78651 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:58  [ http-nio-8081-exec-2:83341 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:58  [ http-nio-8081-exec-2:83342 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:58  [ http-nio-8081-exec-3:83429 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:58  [ http-nio-8081-exec-3:83431 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:57:58  [ http-nio-8081-exec-3:83432 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:58:08  [ http-nio-8081-exec-6:93102 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:08  [ http-nio-8081-exec-6:93103 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:08  [ http-nio-8081-exec-6:93103 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:58:08  [ http-nio-8081-exec-7:93731 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:08  [ http-nio-8081-exec-7:93731 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:12  [ http-nio-8081-exec-9:97348 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:12  [ http-nio-8081-exec-9:97348 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:12  [ http-nio-8081-exec-9:97349 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:58:19  [ http-nio-8081-exec-10:104008 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:19  [ http-nio-8081-exec-10:104008 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:20  [ http-nio-8081-exec-1:105007 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:20  [ http-nio-8081-exec-1:105008 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:20  [ http-nio-8081-exec-1:105008 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 19:58:36  [ http-nio-8081-exec-4:121812 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:36  [ http-nio-8081-exec-4:121813 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:39  [ http-nio-8081-exec-5:124872 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 19:58:41  [ http-nio-8081-exec-7:126355 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:41  [ http-nio-8081-exec-7:126356 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:58:47  [ http-nio-8081-exec-8:132722 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 19:59:07  [ http-nio-8081-exec-10:152662 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:59:07  [ http-nio-8081-exec-10:152664 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:59:12  [ http-nio-8081-exec-1:157877 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 19:59:14  [ http-nio-8081-exec-3:159447 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:59:14  [ http-nio-8081-exec-3:159447 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:59:47  [ http-nio-8081-exec-4:192831 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 19:59:49  [ http-nio-8081-exec-6:194289 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 19:59:49  [ http-nio-8081-exec-6:194290 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:03:20  [ http-nio-8081-exec-7:405891 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:03:23  [ http-nio-8081-exec-9:408555 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:03:23  [ http-nio-8081-exec-9:408555 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:03:25  [ http-nio-8081-exec-10:410684 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:03:27  [ http-nio-8081-exec-2:412073 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:03:27  [ http-nio-8081-exec-2:412074 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:03  [ http-nio-8081-exec-3:448915 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:04:14  [ http-nio-8081-exec-5:458997 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:14  [ http-nio-8081-exec-5:458998 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:21  [ http-nio-8081-exec-7:466924 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:21  [ http-nio-8081-exec-7:466925 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:24  [ http-nio-8081-exec-8:469784 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:04:26  [ http-nio-8081-exec-10:471182 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:26  [ http-nio-8081-exec-10:471183 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:28  [ http-nio-8081-exec-1:473131 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:04:31  [ http-nio-8081-exec-3:476033 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:31  [ http-nio-8081-exec-3:476034 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:32  [ http-nio-8081-exec-4:477650 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:04:34  [ http-nio-8081-exec-6:479018 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:34  [ http-nio-8081-exec-6:479018 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:36  [ http-nio-8081-exec-7:481613 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:04:38  [ http-nio-8081-exec-9:483357 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:38  [ http-nio-8081-exec-9:483358 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:41  [ http-nio-8081-exec-10:486850 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:04:44  [ http-nio-8081-exec-2:489094 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:44  [ http-nio-8081-exec-2:489095 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:04:46  [ http-nio-8081-exec-3:491077 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:05:25  [ http-nio-8081-exec-4:530647 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:05:26  [ http-nio-8081-exec-6:531585 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:05:26  [ http-nio-8081-exec-6:531586 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:29  [ http-nio-8081-exec-9:1254432 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:29  [ http-nio-8081-exec-9:1254433 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:34  [ http-nio-8081-exec-10:1259890 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:17:37  [ http-nio-8081-exec-3:1262564 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:37  [ http-nio-8081-exec-3:1262565 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:39  [ http-nio-8081-exec-4:1264375 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:17:40  [ http-nio-8081-exec-7:1265754 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:40  [ http-nio-8081-exec-7:1265754 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:42  [ http-nio-8081-exec-8:1267892 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:17:44  [ http-nio-8081-exec-1:1269983 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:45  [ http-nio-8081-exec-1:1269984 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:47  [ http-nio-8081-exec-2:1272742 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:17:49  [ http-nio-8081-exec-5:1273988 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:49  [ http-nio-8081-exec-5:1273989 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:17:51  [ http-nio-8081-exec-6:1276003 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:18:55  [ http-nio-8081-exec-7:1340463 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:19:00  [ http-nio-8081-exec-9:1345002 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:19:00  [ http-nio-8081-exec-10:1345542 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:19:05  [ http-nio-8081-exec-2:1350928 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:19:06  [ http-nio-8081-exec-3:1351100 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:19:07  [ http-nio-8081-exec-6:1352507 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:19:07  [ http-nio-8081-exec-6:1352507 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:19:52  [ http-nio-8081-exec-7:1397381 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:19:54  [ http-nio-8081-exec-10:1399563 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:19:54  [ http-nio-8081-exec-10:1399563 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:19:56  [ http-nio-8081-exec-1:1401702 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:19:58  [ http-nio-8081-exec-4:1403009 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:19:58  [ http-nio-8081-exec-4:1403009 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:20:04  [ http-nio-8081-exec-5:1409152 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:20:05  [ http-nio-8081-exec-8:1410917 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:20:05  [ http-nio-8081-exec-8:1410917 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:21:00  [ http-nio-8081-exec-1:1465437 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:21:00  [ http-nio-8081-exec-1:1465437 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:21:02  [ http-nio-8081-exec-2:1467073 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:21:03  [ http-nio-8081-exec-3:1468605 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:21:07  [ http-nio-8081-exec-6:1472079 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:21:07  [ http-nio-8081-exec-6:1472080 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:21:57  [ http-nio-8081-exec-9:1522520 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:21:57  [ http-nio-8081-exec-9:1522520 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:00  [ http-nio-8081-exec-2:1525911 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:00  [ http-nio-8081-exec-2:1525911 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:17  [ http-nio-8081-exec-3:1542299 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:22:18  [ http-nio-8081-exec-6:1543806 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:18  [ http-nio-8081-exec-6:1543806 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:25  [ http-nio-8081-exec-7:1550581 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:22:27  [ http-nio-8081-exec-9:1552090 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:27  [ http-nio-8081-exec-9:1552090 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:28  [ http-nio-8081-exec-10:1553746 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:22:30  [ http-nio-8081-exec-4:1555117 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:30  [ http-nio-8081-exec-4:1555118 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:34  [ http-nio-8081-exec-6:1559101 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:34  [ http-nio-8081-exec-6:1559102 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:35  [ http-nio-8081-exec-8:1560847 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:22:35  [ http-nio-8081-exec-8:1560847 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:23:18  [ http-nio-8081-exec-9:1603434 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:23:19  [ http-nio-8081-exec-2:1604876 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:23:19  [ http-nio-8081-exec-2:1604876 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:25:23  [ http-nio-8081-exec-7:1728879 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:25:23  [ http-nio-8081-exec-7:1728879 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:25:27  [ http-nio-8081-exec-1:1732007 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:25:27  [ http-nio-8081-exec-1:1732007 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:27:36  [ http-nio-8081-exec-3:1861049 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:27:36  [ http-nio-8081-exec-3:1861050 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:27:42  [ http-nio-8081-exec-5:1867146 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:27:42  [ http-nio-8081-exec-5:1867146 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:27:50  [ http-nio-8081-exec-9:1875219 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:27:50  [ http-nio-8081-exec-9:1875219 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:28:28  [ http-nio-8081-exec-2:1913838 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:28:28  [ http-nio-8081-exec-2:1913838 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:28:54  [ http-nio-8081-exec-6:1939589 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:28:54  [ http-nio-8081-exec-6:1939589 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:09  [ http-nio-8081-exec-8:1954845 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:09  [ http-nio-8081-exec-8:1954845 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:11  [ http-nio-8081-exec-10:1956703 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:11  [ http-nio-8081-exec-10:1956704 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:17  [ http-nio-8081-exec-2:1962363 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:17  [ http-nio-8081-exec-2:1962363 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:19  [ http-nio-8081-exec-6:1964097 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:19  [ http-nio-8081-exec-6:1964097 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:42  [ http-nio-8081-exec-5:1987227 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:29:49  [ http-nio-8081-exec-1:1994350 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:49  [ http-nio-8081-exec-1:1994350 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@245652f3
+2021-12-23 20:29:50  [ http-nio-8081-exec-9:1995152 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:33:39  [ http-nio-8081-exec-2:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:33:39  [ http-nio-8081-exec-2:3 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:19  [ http-nio-8081-exec-4:40213 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:34:25  [ http-nio-8081-exec-6:46257 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:25  [ http-nio-8081-exec-6:46257 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:27  [ http-nio-8081-exec-7:48225 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:27  [ http-nio-8081-exec-7:48225 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:27  [ http-nio-8081-exec-8:48282 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:27  [ http-nio-8081-exec-8:48282 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:27  [ http-nio-8081-exec-8:48283 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 20:34:29  [ http-nio-8081-exec-9:50133 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:29  [ http-nio-8081-exec-9:50133 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:29  [ http-nio-8081-exec-10:50173 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:29  [ http-nio-8081-exec-10:50173 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:29  [ http-nio-8081-exec-10:50184 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:29  [ http-nio-8081-exec-10:50184 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:43  [ http-nio-8081-exec-2:64069 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:43  [ http-nio-8081-exec-2:64070 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:43  [ http-nio-8081-exec-3:64111 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:43  [ http-nio-8081-exec-3:64112 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:43  [ http-nio-8081-exec-3:64112 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 20:34:44  [ http-nio-8081-exec-4:65322 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:44  [ http-nio-8081-exec-4:65322 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:44  [ http-nio-8081-exec-5:65355 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:44  [ http-nio-8081-exec-5:65356 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:44  [ http-nio-8081-exec-5:65363 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:44  [ http-nio-8081-exec-5:65364 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:51  [ http-nio-8081-exec-7:72394 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:51  [ http-nio-8081-exec-7:72394 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:51  [ http-nio-8081-exec-7:72399 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:34:51  [ http-nio-8081-exec-7:72399 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36edebfc
+2021-12-23 20:36:56  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:36:56  [ http-nio-8081-exec-1:3 ] - [ INFO ]  存储的结果为:null
+2021-12-23 20:36:57  [ http-nio-8081-exec-3:1151 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:36:57  [ http-nio-8081-exec-3:1152 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:36:59  [ http-nio-8081-exec-4:3387 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:36:59  [ http-nio-8081-exec-4:3387 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:36:59  [ http-nio-8081-exec-5:3452 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:36:59  [ http-nio-8081-exec-5:3452 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:36:59  [ http-nio-8081-exec-5:3453 ] - [ INFO ]  /selectAllAdvert start...
+2021-12-23 20:37:06  [ http-nio-8081-exec-7:10678 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:06  [ http-nio-8081-exec-7:10679 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:06  [ http-nio-8081-exec-7:10706 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:06  [ http-nio-8081-exec-7:10707 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:06  [ http-nio-8081-exec-9:10723 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:06  [ http-nio-8081-exec-9:10723 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:06  [ http-nio-8081-exec-9:10724 ] - [ INFO ]  /selectAllAdvert start...
+2021-12-23 20:37:08  [ http-nio-8081-exec-8:12026 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:08  [ http-nio-8081-exec-8:12027 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:08  [ http-nio-8081-exec-8:12027 ] - [ INFO ]  /selectAllAdvert start...
+2021-12-23 20:37:09  [ http-nio-8081-exec-10:13431 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:09  [ http-nio-8081-exec-10:13431 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:13  [ http-nio-8081-exec-1:17381 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:13  [ http-nio-8081-exec-1:17382 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:13  [ http-nio-8081-exec-2:17407 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:13  [ http-nio-8081-exec-2:17408 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:13  [ http-nio-8081-exec-2:17408 ] - [ INFO ]  /selectAllAdvert start...
+2021-12-23 20:37:23  [ http-nio-8081-exec-4:26999 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:23  [ http-nio-8081-exec-4:26999 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:23  [ http-nio-8081-exec-5:27858 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:23  [ http-nio-8081-exec-5:27858 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:23  [ http-nio-8081-exec-5:27858 ] - [ INFO ]  /selectAllAdvert start...
+2021-12-23 20:37:27  [ http-nio-8081-exec-7:31104 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:27  [ http-nio-8081-exec-7:31104 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:28  [ http-nio-8081-exec-9:32014 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:28  [ http-nio-8081-exec-9:32014 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:28  [ http-nio-8081-exec-9:32014 ] - [ INFO ]  /selectAllAdvert start...
+2021-12-23 20:37:28  [ http-nio-8081-exec-8:32916 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:28  [ http-nio-8081-exec-8:32916 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:28  [ http-nio-8081-exec-10:32931 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:28  [ http-nio-8081-exec-10:32932 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:37:28  [ http-nio-8081-exec-10:32932 ] - [ INFO ]  /selectAllAdvert start...
+2021-12-23 20:38:09  [ http-nio-8081-exec-2:73355 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:38:10  [ http-nio-8081-exec-5:74950 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:10  [ http-nio-8081-exec-5:74951 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:23  [ http-nio-8081-exec-6:87535 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:38:32  [ http-nio-8081-exec-7:96704 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:32  [ http-nio-8081-exec-7:96705 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:34  [ http-nio-8081-exec-10:98071 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:38:36  [ http-nio-8081-exec-3:99999 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:36  [ http-nio-8081-exec-3:99999 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:41  [ http-nio-8081-exec-4:104982 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:41  [ http-nio-8081-exec-4:104983 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:41  [ http-nio-8081-exec-5:105026 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:41  [ http-nio-8081-exec-5:105027 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:41  [ http-nio-8081-exec-5:105027 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 20:38:42  [ http-nio-8081-exec-6:106136 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:42  [ http-nio-8081-exec-6:106136 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:42  [ http-nio-8081-exec-9:106171 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:42  [ http-nio-8081-exec-9:106171 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:38:42  [ http-nio-8081-exec-9:106171 ] - [ INFO ]  /selectAllAdvert start...
+2021-12-23 20:38:53  [ http-nio-8081-exec-8:117386 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 20:40:42  [ http-nio-8081-exec-10:226483 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:40:42  [ http-nio-8081-exec-10:226484 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:40:42  [ http-nio-8081-exec-1:226533 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:40:42  [ http-nio-8081-exec-1:226534 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:40:42  [ http-nio-8081-exec-1:226534 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:40:48  [ http-nio-8081-exec-3:232801 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:40:48  [ http-nio-8081-exec-3:232801 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:40:48  [ http-nio-8081-exec-3:232802 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:44:19  [ http-nio-8081-exec-5:443758 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:44:19  [ http-nio-8081-exec-5:443758 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:45:29  [ http-nio-8081-exec-9:513478 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:45:29  [ http-nio-8081-exec-9:513479 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:45:29  [ http-nio-8081-exec-7:513535 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:45:29  [ http-nio-8081-exec-7:513535 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:45:29  [ http-nio-8081-exec-7:513535 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:56:28  [ http-nio-8081-exec-10:1172552 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:28  [ http-nio-8081-exec-10:1172553 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:28  [ http-nio-8081-exec-10:1172554 ] - [ INFO ]  /queryCardById start...
+2021-12-23 20:56:39  [ http-nio-8081-exec-4:1183115 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:39  [ http-nio-8081-exec-4:1183116 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:42  [ http-nio-8081-exec-5:1186015 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:42  [ http-nio-8081-exec-5:1186015 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:42  [ http-nio-8081-exec-6:1186060 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:42  [ http-nio-8081-exec-6:1186061 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:42  [ http-nio-8081-exec-6:1186061 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:56:49  [ http-nio-8081-exec-7:1193715 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:49  [ http-nio-8081-exec-7:1193715 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:56:49  [ http-nio-8081-exec-7:1193715 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:57:31  [ http-nio-8081-exec-2:1235361 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:31  [ http-nio-8081-exec-2:1235362 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:31  [ http-nio-8081-exec-2:1235362 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:57:31  [ http-nio-8081-exec-1:1235389 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:31  [ http-nio-8081-exec-1:1235389 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:31  [ http-nio-8081-exec-1:1235390 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:57:36  [ http-nio-8081-exec-3:1240448 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:36  [ http-nio-8081-exec-3:1240448 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:36  [ http-nio-8081-exec-3:1240449 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:57:55  [ http-nio-8081-exec-5:1259352 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:55  [ http-nio-8081-exec-5:1259353 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:55  [ http-nio-8081-exec-5:1259353 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:57:55  [ http-nio-8081-exec-6:1259370 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:55  [ http-nio-8081-exec-6:1259370 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:55  [ http-nio-8081-exec-6:1259370 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 20:57:57  [ http-nio-8081-exec-7:1261331 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:57  [ http-nio-8081-exec-7:1261332 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 20:57:57  [ http-nio-8081-exec-7:1261332 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:00:00  [ http-nio-8081-exec-10:1384431 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:00  [ http-nio-8081-exec-10:1384432 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:00  [ http-nio-8081-exec-10:1384432 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:00:00  [ http-nio-8081-exec-2:1384447 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:00  [ http-nio-8081-exec-2:1384447 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:00  [ http-nio-8081-exec-2:1384448 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:00:06  [ http-nio-8081-exec-1:1390848 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:06  [ http-nio-8081-exec-1:1390848 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:06  [ http-nio-8081-exec-1:1390849 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:00:07  [ http-nio-8081-exec-3:1391357 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:07  [ http-nio-8081-exec-3:1391357 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:07  [ http-nio-8081-exec-3:1391358 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:00:21  [ http-nio-8081-exec-4:1405763 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:21  [ http-nio-8081-exec-4:1405764 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:21  [ http-nio-8081-exec-4:1405764 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:00:21  [ http-nio-8081-exec-5:1405769 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:21  [ http-nio-8081-exec-5:1405769 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:21  [ http-nio-8081-exec-5:1405770 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:00:25  [ http-nio-8081-exec-6:1409060 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:25  [ http-nio-8081-exec-6:1409061 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:25  [ http-nio-8081-exec-9:1409358 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:25  [ http-nio-8081-exec-9:1409359 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:25  [ http-nio-8081-exec-9:1409360 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:00:27  [ http-nio-8081-exec-7:1411928 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:27  [ http-nio-8081-exec-7:1411928 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:27  [ http-nio-8081-exec-7:1411928 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:00:28  [ http-nio-8081-exec-8:1412592 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:28  [ http-nio-8081-exec-8:1412593 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:00:28  [ http-nio-8081-exec-8:1412593 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:02:41  [ http-nio-8081-exec-1:1545323 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:02:41  [ http-nio-8081-exec-1:1545324 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:02:41  [ http-nio-8081-exec-1:1545324 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:02:41  [ http-nio-8081-exec-3:1545341 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:02:41  [ http-nio-8081-exec-3:1545341 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:02:41  [ http-nio-8081-exec-3:1545342 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:02:42  [ http-nio-8081-exec-4:1546740 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:02:42  [ http-nio-8081-exec-4:1546741 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:02:42  [ http-nio-8081-exec-4:1546741 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:02:43  [ http-nio-8081-exec-5:1547947 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:02:43  [ http-nio-8081-exec-5:1547948 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:02:43  [ http-nio-8081-exec-5:1547948 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:03:00  [ http-nio-8081-exec-6:1564780 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:00  [ http-nio-8081-exec-6:1564780 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:00  [ http-nio-8081-exec-6:1564794 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:03:19  [ http-nio-8081-exec-9:1583196 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:19  [ http-nio-8081-exec-9:1583196 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:19  [ http-nio-8081-exec-9:1583196 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:03:19  [ http-nio-8081-exec-7:1583208 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:19  [ http-nio-8081-exec-7:1583208 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:19  [ http-nio-8081-exec-7:1583209 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:03:23  [ http-nio-8081-exec-8:1587579 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:23  [ http-nio-8081-exec-8:1587579 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:24  [ http-nio-8081-exec-10:1588175 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:24  [ http-nio-8081-exec-10:1588175 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:24  [ http-nio-8081-exec-10:1588176 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:03:26  [ http-nio-8081-exec-2:1590292 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:26  [ http-nio-8081-exec-2:1590292 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:26  [ http-nio-8081-exec-2:1590292 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:03:45  [ http-nio-8081-exec-3:1609199 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:45  [ http-nio-8081-exec-3:1609199 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:45  [ http-nio-8081-exec-3:1609200 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:03:45  [ http-nio-8081-exec-4:1609216 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:45  [ http-nio-8081-exec-4:1609216 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:45  [ http-nio-8081-exec-4:1609217 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:03:47  [ http-nio-8081-exec-5:1611603 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:47  [ http-nio-8081-exec-5:1611604 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:48  [ http-nio-8081-exec-9:1612035 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:48  [ http-nio-8081-exec-9:1612035 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:48  [ http-nio-8081-exec-9:1612036 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:03:50  [ http-nio-8081-exec-7:1614912 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:50  [ http-nio-8081-exec-7:1614912 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:50  [ http-nio-8081-exec-7:1614912 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:03:51  [ http-nio-8081-exec-8:1615912 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:51  [ http-nio-8081-exec-8:1615913 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:51  [ http-nio-8081-exec-8:1615913 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:03:54  [ http-nio-8081-exec-10:1618793 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:54  [ http-nio-8081-exec-10:1618794 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:03:54  [ http-nio-8081-exec-10:1618794 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:05:09  [ http-nio-8081-exec-1:1693683 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:09  [ http-nio-8081-exec-1:1693684 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:09  [ http-nio-8081-exec-1:1693685 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:05:09  [ http-nio-8081-exec-3:1693722 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:09  [ http-nio-8081-exec-3:1693723 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:09  [ http-nio-8081-exec-3:1693723 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:05:11  [ http-nio-8081-exec-4:1695545 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:11  [ http-nio-8081-exec-4:1695546 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:11  [ http-nio-8081-exec-4:1695547 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:05:23  [ http-nio-8081-exec-5:1707876 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:23  [ http-nio-8081-exec-5:1707877 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:23  [ http-nio-8081-exec-5:1707878 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:05:23  [ http-nio-8081-exec-6:1707893 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:23  [ http-nio-8081-exec-6:1707893 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:23  [ http-nio-8081-exec-6:1707893 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:05:25  [ http-nio-8081-exec-9:1709642 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:25  [ http-nio-8081-exec-9:1709642 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:05:25  [ http-nio-8081-exec-9:1709643 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:06:03  [ http-nio-8081-exec-7:1747304 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:03  [ http-nio-8081-exec-7:1747305 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:03  [ http-nio-8081-exec-7:1747308 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:06:03  [ http-nio-8081-exec-8:1747412 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:03  [ http-nio-8081-exec-8:1747413 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:03  [ http-nio-8081-exec-8:1747413 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:06:05  [ http-nio-8081-exec-10:1749342 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:05  [ http-nio-8081-exec-10:1749342 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:05  [ http-nio-8081-exec-10:1749343 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:06:15  [ http-nio-8081-exec-2:1759945 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:15  [ http-nio-8081-exec-2:1759946 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:15  [ http-nio-8081-exec-2:1759946 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:06:15  [ http-nio-8081-exec-1:1759955 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:15  [ http-nio-8081-exec-1:1759955 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:15  [ http-nio-8081-exec-1:1759956 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:06:18  [ http-nio-8081-exec-3:1762177 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:18  [ http-nio-8081-exec-3:1762177 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:18  [ http-nio-8081-exec-3:1762178 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:06:52  [ http-nio-8081-exec-4:1795990 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:52  [ http-nio-8081-exec-4:1795990 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:52  [ http-nio-8081-exec-4:1795991 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:06:54  [ http-nio-8081-exec-5:1798830 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:54  [ http-nio-8081-exec-5:1798830 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:06:54  [ http-nio-8081-exec-5:1798831 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:09:15  [ http-nio-8081-exec-7:1939010 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:15  [ http-nio-8081-exec-7:1939010 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:15  [ http-nio-8081-exec-7:1939011 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:09:15  [ http-nio-8081-exec-8:1939030 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:15  [ http-nio-8081-exec-8:1939030 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:15  [ http-nio-8081-exec-8:1939031 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:09:21  [ http-nio-8081-exec-10:1945626 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:21  [ http-nio-8081-exec-10:1945626 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:21  [ http-nio-8081-exec-10:1945626 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:09:21  [ http-nio-8081-exec-2:1945653 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:21  [ http-nio-8081-exec-2:1945654 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:21  [ http-nio-8081-exec-2:1945654 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:09:25  [ http-nio-8081-exec-1:1949376 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:25  [ http-nio-8081-exec-1:1949377 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:25  [ http-nio-8081-exec-3:1949816 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:25  [ http-nio-8081-exec-3:1949816 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:25  [ http-nio-8081-exec-3:1949816 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:09:27  [ http-nio-8081-exec-4:1951225 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:27  [ http-nio-8081-exec-4:1951225 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:09:27  [ http-nio-8081-exec-4:1951226 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:10:34  [ http-nio-8081-exec-6:2018870 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:34  [ http-nio-8081-exec-6:2018871 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:34  [ http-nio-8081-exec-6:2018871 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:10:34  [ http-nio-8081-exec-9:2018897 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:34  [ http-nio-8081-exec-9:2018897 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:34  [ http-nio-8081-exec-9:2018898 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:10:40  [ http-nio-8081-exec-7:2024017 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:40  [ http-nio-8081-exec-7:2024017 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:40  [ http-nio-8081-exec-8:2024465 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:40  [ http-nio-8081-exec-8:2024465 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:40  [ http-nio-8081-exec-8:2024465 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:10:42  [ http-nio-8081-exec-10:2026415 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:42  [ http-nio-8081-exec-10:2026415 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:10:42  [ http-nio-8081-exec-10:2026416 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:14:18  [ http-nio-8081-exec-1:2242653 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:18  [ http-nio-8081-exec-1:2242653 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:18  [ http-nio-8081-exec-1:2242653 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:14:18  [ http-nio-8081-exec-3:2242727 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:18  [ http-nio-8081-exec-3:2242728 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:18  [ http-nio-8081-exec-3:2242729 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:14:22  [ http-nio-8081-exec-4:2246584 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:22  [ http-nio-8081-exec-4:2246585 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:23  [ http-nio-8081-exec-5:2247001 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:23  [ http-nio-8081-exec-5:2247001 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:23  [ http-nio-8081-exec-5:2247001 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:14:24  [ http-nio-8081-exec-6:2248353 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:24  [ http-nio-8081-exec-6:2248353 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:14:24  [ http-nio-8081-exec-6:2248354 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:16:19  [ http-nio-8081-exec-7:2363340 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:16:19  [ http-nio-8081-exec-7:2363342 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:16:19  [ http-nio-8081-exec-7:2363342 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:16:19  [ http-nio-8081-exec-8:2363450 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:16:19  [ http-nio-8081-exec-8:2363451 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:16:19  [ http-nio-8081-exec-8:2363451 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:16:24  [ http-nio-8081-exec-10:2368804 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:16:24  [ http-nio-8081-exec-10:2368804 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:16:24  [ http-nio-8081-exec-10:2368805 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:17:08  [ http-nio-8081-exec-2:2412591 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:08  [ http-nio-8081-exec-2:2412591 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:08  [ http-nio-8081-exec-1:2412656 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 21:17:21  [ http-nio-8081-exec-5:2425949 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:21  [ http-nio-8081-exec-5:2425949 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:22  [ http-nio-8081-exec-6:2426005 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:22  [ http-nio-8081-exec-6:2426005 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:22  [ http-nio-8081-exec-6:2426005 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:17:23  [ http-nio-8081-exec-9:2427962 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:23  [ http-nio-8081-exec-9:2427962 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:24  [ http-nio-8081-exec-7:2428001 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 21:17:30  [ http-nio-8081-exec-10:2434893 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:30  [ http-nio-8081-exec-10:2434893 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:30  [ http-nio-8081-exec-2:2434921 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:30  [ http-nio-8081-exec-2:2434922 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:17:30  [ http-nio-8081-exec-2:2434922 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:19:21  [ http-nio-8081-exec-3:2545563 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:19:21  [ http-nio-8081-exec-3:2545563 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:19:21  [ http-nio-8081-exec-4:2545855 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:19:21  [ http-nio-8081-exec-4:2545855 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:19:21  [ http-nio-8081-exec-4:2545855 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:19:24  [ http-nio-8081-exec-5:2548583 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:19:24  [ http-nio-8081-exec-5:2548584 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:19:24  [ http-nio-8081-exec-5:2548584 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:21:26  [ http-nio-8081-exec-7:2670497 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:21:26  [ http-nio-8081-exec-7:2670497 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:21:28  [ http-nio-8081-exec-8:2672404 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:21:28  [ http-nio-8081-exec-8:2672404 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:21:28  [ http-nio-8081-exec-10:2672446 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:21:28  [ http-nio-8081-exec-10:2672446 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:21:28  [ http-nio-8081-exec-10:2672446 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:21:36  [ http-nio-8081-exec-1:2680492 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:21:36  [ http-nio-8081-exec-1:2680493 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:21:36  [ http-nio-8081-exec-1:2680493 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:22:57  [ http-nio-8081-exec-4:2761239 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:57  [ http-nio-8081-exec-4:2761239 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:57  [ http-nio-8081-exec-4:2761239 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:22:57  [ http-nio-8081-exec-5:2761253 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:57  [ http-nio-8081-exec-5:2761254 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:57  [ http-nio-8081-exec-5:2761254 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:22:57  [ http-nio-8081-exec-6:2761263 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:57  [ http-nio-8081-exec-6:2761264 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:57  [ http-nio-8081-exec-6:2761264 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:22:59  [ http-nio-8081-exec-9:2763579 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:59  [ http-nio-8081-exec-9:2763579 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:59  [ http-nio-8081-exec-7:2763893 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:59  [ http-nio-8081-exec-7:2763893 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:22:59  [ http-nio-8081-exec-7:2763893 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:23:01  [ http-nio-8081-exec-8:2765535 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:23:01  [ http-nio-8081-exec-8:2765535 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:23:01  [ http-nio-8081-exec-8:2765535 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:23:12  [ http-nio-8081-exec-2:2776654 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:23:12  [ http-nio-8081-exec-2:2776655 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:23:12  [ http-nio-8081-exec-2:2776655 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:23:12  [ http-nio-8081-exec-1:2776662 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:23:12  [ http-nio-8081-exec-1:2776662 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:23:12  [ http-nio-8081-exec-1:2776663 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:23:12  [ http-nio-8081-exec-3:2776676 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:23:12  [ http-nio-8081-exec-3:2776677 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:23:12  [ http-nio-8081-exec-3:2776677 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:25:07  [ http-nio-8081-exec-6:2891882 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:07  [ http-nio-8081-exec-6:2891883 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:07  [ http-nio-8081-exec-6:2891884 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:25:07  [ http-nio-8081-exec-9:2891908 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:07  [ http-nio-8081-exec-9:2891908 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:07  [ http-nio-8081-exec-9:2891909 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:25:08  [ http-nio-8081-exec-7:2892035 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:08  [ http-nio-8081-exec-7:2892036 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:08  [ http-nio-8081-exec-7:2892036 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:25:11  [ http-nio-8081-exec-8:2895180 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:11  [ http-nio-8081-exec-8:2895180 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:11  [ http-nio-8081-exec-10:2895602 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:11  [ http-nio-8081-exec-10:2895604 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:11  [ http-nio-8081-exec-10:2895604 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:25:16  [ http-nio-8081-exec-2:2900273 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:16  [ http-nio-8081-exec-2:2900273 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:16  [ http-nio-8081-exec-2:2900273 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:25:20  [ http-nio-8081-exec-1:2904772 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:20  [ http-nio-8081-exec-1:2904772 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:20  [ http-nio-8081-exec-1:2904773 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:25:20  [ http-nio-8081-exec-3:2904788 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:20  [ http-nio-8081-exec-3:2904789 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:20  [ http-nio-8081-exec-3:2904789 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:25:20  [ http-nio-8081-exec-4:2904807 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:20  [ http-nio-8081-exec-4:2904807 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:25:20  [ http-nio-8081-exec-4:2904808 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:26:27  [ http-nio-8081-exec-9:2971919 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:27  [ http-nio-8081-exec-9:2971919 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:27  [ http-nio-8081-exec-9:2971920 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:26:27  [ http-nio-8081-exec-7:2971939 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:27  [ http-nio-8081-exec-7:2971940 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:27  [ http-nio-8081-exec-7:2971940 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:26:27  [ http-nio-8081-exec-8:2971955 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:27  [ http-nio-8081-exec-8:2971955 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:27  [ http-nio-8081-exec-8:2971956 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:26:32  [ http-nio-8081-exec-10:2976504 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:32  [ http-nio-8081-exec-10:2976504 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:32  [ http-nio-8081-exec-2:2976948 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:32  [ http-nio-8081-exec-2:2976948 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:32  [ http-nio-8081-exec-2:2976948 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:26:35  [ http-nio-8081-exec-4:2979546 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:35  [ http-nio-8081-exec-4:2979547 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:26:35  [ http-nio-8081-exec-4:2979547 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:27:15  [ http-nio-8081-exec-5:3019607 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:15  [ http-nio-8081-exec-5:3019607 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:15  [ http-nio-8081-exec-5:3019607 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:15  [ http-nio-8081-exec-6:3019618 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:15  [ http-nio-8081-exec-6:3019618 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:15  [ http-nio-8081-exec-6:3019619 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:15  [ http-nio-8081-exec-9:3019638 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:15  [ http-nio-8081-exec-9:3019639 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:15  [ http-nio-8081-exec-9:3019639 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:19  [ http-nio-8081-exec-7:3023113 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:19  [ http-nio-8081-exec-7:3023113 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:19  [ http-nio-8081-exec-8:3023551 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:19  [ http-nio-8081-exec-8:3023551 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:19  [ http-nio-8081-exec-8:3023552 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:21  [ http-nio-8081-exec-2:3025066 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:21  [ http-nio-8081-exec-2:3025066 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:21  [ http-nio-8081-exec-2:3025066 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:27:29  [ http-nio-8081-exec-3:3033042 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:29  [ http-nio-8081-exec-3:3033042 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:29  [ http-nio-8081-exec-3:3033043 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:27:34  [ http-nio-8081-exec-1:3038143 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:34  [ http-nio-8081-exec-1:3038144 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:34  [ http-nio-8081-exec-1:3038144 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:34  [ http-nio-8081-exec-4:3038158 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:34  [ http-nio-8081-exec-4:3038159 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:34  [ http-nio-8081-exec-4:3038159 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:34  [ http-nio-8081-exec-5:3038180 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:34  [ http-nio-8081-exec-5:3038180 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:34  [ http-nio-8081-exec-5:3038180 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:50  [ http-nio-8081-exec-9:3054950 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:50  [ http-nio-8081-exec-9:3054950 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:50  [ http-nio-8081-exec-9:3054951 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:51  [ http-nio-8081-exec-7:3054966 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:51  [ http-nio-8081-exec-7:3054967 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:51  [ http-nio-8081-exec-7:3054967 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:51  [ http-nio-8081-exec-8:3054974 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:51  [ http-nio-8081-exec-8:3054974 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:51  [ http-nio-8081-exec-8:3054975 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:54  [ http-nio-8081-exec-10:3058337 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:54  [ http-nio-8081-exec-10:3058337 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:54  [ http-nio-8081-exec-2:3058748 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:54  [ http-nio-8081-exec-2:3058748 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:54  [ http-nio-8081-exec-2:3058749 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:27:56  [ http-nio-8081-exec-4:3060074 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:56  [ http-nio-8081-exec-4:3060074 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:27:56  [ http-nio-8081-exec-4:3060075 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:28:07  [ http-nio-8081-exec-5:3071822 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:07  [ http-nio-8081-exec-5:3071822 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:07  [ http-nio-8081-exec-5:3071823 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:28:07  [ http-nio-8081-exec-6:3071835 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:07  [ http-nio-8081-exec-6:3071836 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:07  [ http-nio-8081-exec-6:3071836 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:28:07  [ http-nio-8081-exec-9:3071851 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:07  [ http-nio-8081-exec-9:3071852 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:07  [ http-nio-8081-exec-9:3071852 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:28:14  [ http-nio-8081-exec-8:3078673 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:14  [ http-nio-8081-exec-8:3078673 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:14  [ http-nio-8081-exec-8:3078673 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:28:14  [ http-nio-8081-exec-10:3078722 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:14  [ http-nio-8081-exec-10:3078723 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:14  [ http-nio-8081-exec-10:3078723 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:28:14  [ http-nio-8081-exec-2:3078744 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:14  [ http-nio-8081-exec-2:3078745 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:14  [ http-nio-8081-exec-2:3078745 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:28:17  [ http-nio-8081-exec-3:3081219 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:17  [ http-nio-8081-exec-3:3081219 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:17  [ http-nio-8081-exec-1:3081641 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:17  [ http-nio-8081-exec-1:3081641 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:17  [ http-nio-8081-exec-1:3081642 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:28:18  [ http-nio-8081-exec-4:3082934 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:18  [ http-nio-8081-exec-4:3082934 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:18  [ http-nio-8081-exec-4:3082935 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:28:23  [ http-nio-8081-exec-6:3087825 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:23  [ http-nio-8081-exec-6:3087826 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:23  [ http-nio-8081-exec-6:3087826 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:28:23  [ http-nio-8081-exec-9:3087839 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:23  [ http-nio-8081-exec-9:3087839 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:23  [ http-nio-8081-exec-9:3087840 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:28:23  [ http-nio-8081-exec-7:3087854 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:23  [ http-nio-8081-exec-7:3087854 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:28:23  [ http-nio-8081-exec-7:3087855 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:30:09  [ http-nio-8081-exec-10:3193434 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:09  [ http-nio-8081-exec-10:3193434 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:09  [ http-nio-8081-exec-10:3193435 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:30:13  [ http-nio-8081-exec-2:3197724 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:13  [ http-nio-8081-exec-2:3197725 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:14  [ http-nio-8081-exec-3:3198154 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:14  [ http-nio-8081-exec-3:3198154 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:14  [ http-nio-8081-exec-3:3198155 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:30:15  [ http-nio-8081-exec-1:3199464 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:15  [ http-nio-8081-exec-1:3199465 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:15  [ http-nio-8081-exec-1:3199465 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:30:31  [ http-nio-8081-exec-4:3215115 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:31  [ http-nio-8081-exec-4:3215116 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:31  [ http-nio-8081-exec-4:3215116 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:30:34  [ http-nio-8081-exec-5:3218178 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:34  [ http-nio-8081-exec-5:3218178 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:34  [ http-nio-8081-exec-6:3218626 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:34  [ http-nio-8081-exec-6:3218626 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:34  [ http-nio-8081-exec-6:3218627 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:30:36  [ http-nio-8081-exec-9:3220107 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:36  [ http-nio-8081-exec-9:3220108 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:36  [ http-nio-8081-exec-9:3220108 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:30:52  [ http-nio-8081-exec-7:3236179 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:52  [ http-nio-8081-exec-7:3236179 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:52  [ http-nio-8081-exec-7:3236179 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:30:55  [ http-nio-8081-exec-8:3239328 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:55  [ http-nio-8081-exec-8:3239328 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:55  [ http-nio-8081-exec-8:3239328 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:30:58  [ http-nio-8081-exec-10:3242890 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:58  [ http-nio-8081-exec-10:3242891 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:59  [ http-nio-8081-exec-2:3243185 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:59  [ http-nio-8081-exec-2:3243185 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:30:59  [ http-nio-8081-exec-2:3243185 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:31:00  [ http-nio-8081-exec-3:3244514 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:00  [ http-nio-8081-exec-3:3244514 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:00  [ http-nio-8081-exec-3:3244515 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:31:17  [ http-nio-8081-exec-1:3261296 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:17  [ http-nio-8081-exec-1:3261297 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:17  [ http-nio-8081-exec-1:3261297 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:31:19  [ http-nio-8081-exec-4:3263493 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:19  [ http-nio-8081-exec-4:3263493 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:19  [ http-nio-8081-exec-5:3263778 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:19  [ http-nio-8081-exec-5:3263779 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:19  [ http-nio-8081-exec-5:3263779 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:31:21  [ http-nio-8081-exec-6:3265526 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:21  [ http-nio-8081-exec-6:3265526 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:21  [ http-nio-8081-exec-6:3265526 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:31:28  [ http-nio-8081-exec-9:3272659 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:28  [ http-nio-8081-exec-9:3272659 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:28  [ http-nio-8081-exec-9:3272661 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:31:30  [ http-nio-8081-exec-7:3274706 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:30  [ http-nio-8081-exec-7:3274706 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:31  [ http-nio-8081-exec-8:3274991 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:31  [ http-nio-8081-exec-8:3274991 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:31  [ http-nio-8081-exec-8:3274992 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:31:33  [ http-nio-8081-exec-10:3277669 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:33  [ http-nio-8081-exec-10:3277669 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:31:33  [ http-nio-8081-exec-10:3277670 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:32:04  [ http-nio-8081-exec-2:3308321 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:04  [ http-nio-8081-exec-2:3308321 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:04  [ http-nio-8081-exec-2:3308322 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:32:08  [ http-nio-8081-exec-3:3312363 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:08  [ http-nio-8081-exec-3:3312363 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:08  [ http-nio-8081-exec-3:3312363 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:32:10  [ http-nio-8081-exec-1:3314779 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:10  [ http-nio-8081-exec-1:3314779 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:11  [ http-nio-8081-exec-4:3315076 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:11  [ http-nio-8081-exec-4:3315077 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:11  [ http-nio-8081-exec-4:3315077 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:32:12  [ http-nio-8081-exec-5:3316206 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:12  [ http-nio-8081-exec-5:3316206 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:32:12  [ http-nio-8081-exec-5:3316206 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:33:10  [ http-nio-8081-exec-6:3374536 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:10  [ http-nio-8081-exec-6:3374536 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:10  [ http-nio-8081-exec-9:3374843 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:10  [ http-nio-8081-exec-9:3374843 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:10  [ http-nio-8081-exec-9:3374844 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:33:12  [ http-nio-8081-exec-7:3376013 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:12  [ http-nio-8081-exec-7:3376014 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:12  [ http-nio-8081-exec-8:3376060 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 21:33:24  [ http-nio-8081-exec-2:3388693 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:24  [ http-nio-8081-exec-2:3388694 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:24  [ http-nio-8081-exec-3:3388746 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:24  [ http-nio-8081-exec-3:3388747 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:24  [ http-nio-8081-exec-3:3388747 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:33:26  [ http-nio-8081-exec-1:3390647 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:26  [ http-nio-8081-exec-1:3390647 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@28ecbbc2
+2021-12-23 21:33:26  [ http-nio-8081-exec-1:3390647 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:35:58  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:35:58  [ http-nio-8081-exec-1:1 ] - [ INFO ]  存储的结果为:null
+2021-12-23 21:35:59  [ http-nio-8081-exec-6:1169 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:35:59  [ http-nio-8081-exec-6:1170 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:36:01  [ http-nio-8081-exec-2:3285 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:36:01  [ http-nio-8081-exec-2:3285 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:36:06  [ http-nio-8081-exec-10:7481 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:36:06  [ http-nio-8081-exec-10:7482 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:36:06  [ http-nio-8081-exec-7:7558 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:36:06  [ http-nio-8081-exec-7:7559 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:36:06  [ http-nio-8081-exec-7:7560 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:36:07  [ http-nio-8081-exec-8:8769 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:36:07  [ http-nio-8081-exec-8:8769 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:36:07  [ http-nio-8081-exec-8:8771 ] - [ INFO ]  /queryCardById start...
+2021-12-23 21:39:10  [ http-nio-8081-exec-3:191345 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 21:40:43  [ http-nio-8081-exec-1:284396 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:40:43  [ http-nio-8081-exec-1:284398 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:40:43  [ http-nio-8081-exec-4:284678 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:40:43  [ http-nio-8081-exec-4:284678 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@36856caa
+2021-12-23 21:40:43  [ http-nio-8081-exec-4:284679 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:44:37  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:44:37  [ http-nio-8081-exec-1:3 ] - [ INFO ]  存储的结果为:null
+2021-12-23 21:44:39  [ http-nio-8081-exec-5:2222 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:44:39  [ http-nio-8081-exec-5:2226 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:44:42  [ http-nio-8081-exec-3:4556 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:44:42  [ http-nio-8081-exec-3:4556 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:23  [ http-nio-8081-exec-8:45737 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:23  [ http-nio-8081-exec-8:45738 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:25  [ http-nio-8081-exec-9:48352 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:25  [ http-nio-8081-exec-9:48353 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:25  [ http-nio-8081-exec-10:48432 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 21:45:27  [ http-nio-8081-exec-1:49658 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:27  [ http-nio-8081-exec-1:49658 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:31  [ http-nio-8081-exec-2:53470 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:31  [ http-nio-8081-exec-2:53470 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:31  [ http-nio-8081-exec-5:53526 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:31  [ http-nio-8081-exec-5:53527 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:31  [ http-nio-8081-exec-5:53528 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:45:32  [ http-nio-8081-exec-3:54573 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:32  [ http-nio-8081-exec-3:54573 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:32  [ http-nio-8081-exec-6:54629 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:32  [ http-nio-8081-exec-6:54630 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:32  [ http-nio-8081-exec-6:54631 ] - [ INFO ]  /selectAllAdvert start...
+2021-12-23 21:45:32  [ http-nio-8081-exec-7:55166 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:32  [ http-nio-8081-exec-7:55166 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:33  [ http-nio-8081-exec-8:56060 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:33  [ http-nio-8081-exec-8:56060 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:33  [ http-nio-8081-exec-9:56098 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:33  [ http-nio-8081-exec-9:56099 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:33  [ http-nio-8081-exec-9:56100 ] - [ INFO ]  /selectAllComments start...
+2021-12-23 21:45:34  [ http-nio-8081-exec-10:56921 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:34  [ http-nio-8081-exec-10:56921 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:34  [ http-nio-8081-exec-1:56971 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:34  [ http-nio-8081-exec-1:56971 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:34  [ http-nio-8081-exec-1:56972 ] - [ INFO ]  /selectAllStore start...
+2021-12-23 21:45:36  [ http-nio-8081-exec-2:58537 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:45:36  [ http-nio-8081-exec-2:58537 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:47:00  [ http-nio-8081-exec-4:142808 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:47:00  [ http-nio-8081-exec-4:142808 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:48:53  [ http-nio-8081-exec-6:256434 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:48:53  [ http-nio-8081-exec-6:256434 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:48:54  [ http-nio-8081-exec-7:257020 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:48:54  [ http-nio-8081-exec-7:257021 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:48:54  [ http-nio-8081-exec-7:257022 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:49:00  [ http-nio-8081-exec-9:262942 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:49:00  [ http-nio-8081-exec-9:262943 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:49:02  [ http-nio-8081-exec-10:264912 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:49:02  [ http-nio-8081-exec-10:264913 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:49:02  [ http-nio-8081-exec-1:264975 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:49:02  [ http-nio-8081-exec-1:264975 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:49:02  [ http-nio-8081-exec-1:264976 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:49:12  [ http-nio-8081-exec-2:275067 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:49:12  [ http-nio-8081-exec-2:275067 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:49:12  [ http-nio-8081-exec-2:275069 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:50:57  [ http-nio-8081-exec-4:379763 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:50:57  [ http-nio-8081-exec-4:379763 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:50:57  [ http-nio-8081-exec-4:379764 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:51:14  [ http-nio-8081-exec-6:397371 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:14  [ http-nio-8081-exec-6:397371 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:17  [ http-nio-8081-exec-7:399634 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:17  [ http-nio-8081-exec-7:399635 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:17  [ http-nio-8081-exec-8:399697 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:17  [ http-nio-8081-exec-8:399697 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:17  [ http-nio-8081-exec-8:399697 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:51:25  [ http-nio-8081-exec-9:407803 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:25  [ http-nio-8081-exec-9:407803 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:25  [ http-nio-8081-exec-10:407835 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:25  [ http-nio-8081-exec-10:407835 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:25  [ http-nio-8081-exec-10:407836 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:51:25  [ http-nio-8081-exec-1:407841 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:25  [ http-nio-8081-exec-1:407842 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:25  [ http-nio-8081-exec-1:407842 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:51:26  [ http-nio-8081-exec-2:409271 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:26  [ http-nio-8081-exec-2:409272 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:31  [ http-nio-8081-exec-5:414334 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:31  [ http-nio-8081-exec-5:414334 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:34  [ http-nio-8081-exec-4:416650 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:34  [ http-nio-8081-exec-4:416650 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:43  [ http-nio-8081-exec-3:426297 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:43  [ http-nio-8081-exec-3:426298 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:43  [ http-nio-8081-exec-3:426330 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:51:43  [ http-nio-8081-exec-3:426330 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:00  [ http-nio-8081-exec-6:442495 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:00  [ http-nio-8081-exec-6:442495 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:00  [ http-nio-8081-exec-7:442526 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:00  [ http-nio-8081-exec-7:442526 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:00  [ http-nio-8081-exec-7:442526 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:52:03  [ http-nio-8081-exec-8:445948 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:03  [ http-nio-8081-exec-8:445948 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:10  [ http-nio-8081-exec-9:453293 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:10  [ http-nio-8081-exec-9:453293 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:15  [ http-nio-8081-exec-10:458085 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:15  [ http-nio-8081-exec-10:458085 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:15  [ http-nio-8081-exec-1:458126 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:15  [ http-nio-8081-exec-1:458127 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:15  [ http-nio-8081-exec-1:458127 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:52:23  [ http-nio-8081-exec-2:466085 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:23  [ http-nio-8081-exec-2:466086 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:27  [ http-nio-8081-exec-5:469652 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:27  [ http-nio-8081-exec-5:469652 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:27  [ http-nio-8081-exec-5:469653 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:52:28  [ http-nio-8081-exec-4:470939 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:28  [ http-nio-8081-exec-4:470940 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:28  [ http-nio-8081-exec-3:470974 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:28  [ http-nio-8081-exec-3:470974 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@64e78850
+2021-12-23 21:52:28  [ http-nio-8081-exec-3:470975 ] - [ INFO ]  /selectAllOrder start...
+2021-12-23 21:56:37  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:56:37  [ http-nio-8081-exec-1:3 ] - [ INFO ]  存储的结果为:null
+2021-12-23 21:56:38  [ http-nio-8081-exec-2:854 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 21:56:44  [ http-nio-8081-exec-4:6343 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:56:44  [ http-nio-8081-exec-4:6344 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:56:50  [ http-nio-8081-exec-6:12845 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:56:50  [ http-nio-8081-exec-6:12845 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:57:02  [ http-nio-8081-exec-8:24794 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:57:02  [ http-nio-8081-exec-8:24796 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:57:23  [ http-nio-8081-exec-9:45837 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:57:23  [ http-nio-8081-exec-9:45838 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:57:23  [ http-nio-8081-exec-10:45994 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:57:23  [ http-nio-8081-exec-10:45994 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:57:23  [ http-nio-8081-exec-10:45995 ] - [ INFO ]  /selectAllCart start...
+2021-12-23 21:57:36  [ http-nio-8081-exec-1:59041 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:57:36  [ http-nio-8081-exec-1:59043 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:58:36  [ http-nio-8081-exec-4:118567 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:58:36  [ http-nio-8081-exec-4:118568 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:59:40  [ http-nio-8081-exec-6:182848 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:59:40  [ http-nio-8081-exec-6:182850 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:59:44  [ http-nio-8081-exec-8:187062 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:59:44  [ http-nio-8081-exec-8:187063 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 21:59:47  [ http-nio-8081-exec-9:189530 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 22:01:37  [ http-nio-8081-exec-1:299306 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 22:01:49  [ http-nio-8081-exec-2:311471 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 22:03:35  [ http-nio-8081-exec-3:417608 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 22:03:47  [ http-nio-8081-exec-4:429349 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 22:04:11  [ http-nio-8081-exec-7:453177 ] - [ INFO ]  /selectAllGoods start...
+2021-12-23 22:04:36  [ http-nio-8081-exec-6:478144 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:04:36  [ http-nio-8081-exec-6:478146 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:04:52  [ http-nio-8081-exec-5:495046 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:04:52  [ http-nio-8081-exec-5:495046 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:04:52  [ http-nio-8081-exec-5:495054 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:04:52  [ http-nio-8081-exec-5:495056 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:05:02  [ http-nio-8081-exec-8:504966 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:05:02  [ http-nio-8081-exec-8:504966 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:05:02  [ http-nio-8081-exec-8:504967 ] - [ INFO ]  /queryCardById start...
+2021-12-23 22:05:10  [ http-nio-8081-exec-9:512137 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:05:10  [ http-nio-8081-exec-9:512137 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:05:10  [ http-nio-8081-exec-9:512139 ] - [ INFO ]  /queryCardById start...
+2021-12-23 22:05:12  [ http-nio-8081-exec-10:514465 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:05:12  [ http-nio-8081-exec-10:514465 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:05:12  [ http-nio-8081-exec-10:514477 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:05:12  [ http-nio-8081-exec-10:514477 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:06:32  [ http-nio-8081-exec-2:594397 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:06:32  [ http-nio-8081-exec-2:594398 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:06:32  [ http-nio-8081-exec-2:594410 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:06:32  [ http-nio-8081-exec-2:594411 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@53bfbc7a
+2021-12-23 22:13:22  [ http-nio-8081-exec-1:0 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:13:22  [ http-nio-8081-exec-1:8 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:13:29  [ http-nio-8081-exec-2:7000 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:13:29  [ http-nio-8081-exec-2:7002 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:14:12  [ http-nio-8081-exec-3:50275 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:14:12  [ http-nio-8081-exec-3:50276 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:14:29  [ http-nio-8081-exec-6:66850 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:14:29  [ http-nio-8081-exec-6:66851 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:14:31  [ http-nio-8081-exec-5:69540 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:14:31  [ http-nio-8081-exec-5:69541 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:14:34  [ http-nio-8081-exec-7:72283 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:14:34  [ http-nio-8081-exec-7:72284 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:14:40  [ http-nio-8081-exec-8:78199 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:14:40  [ http-nio-8081-exec-8:78199 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:14:43  [ http-nio-8081-exec-9:81549 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:14:43  [ http-nio-8081-exec-9:81550 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:14:53  [ http-nio-8081-exec-10:91275 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:14:53  [ http-nio-8081-exec-10:91277 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:14:59  [ http-nio-8081-exec-1:97711 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:14:59  [ http-nio-8081-exec-1:97711 ] - [ INFO ]  存储的结果为:null
+2021-12-23 22:15:02  [ http-nio-8081-exec-3:99980 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:15:02  [ http-nio-8081-exec-3:99982 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:15:04  [ http-nio-8081-exec-4:102750 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:15:04  [ http-nio-8081-exec-4:102752 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:15:35  [ http-nio-8081-exec-5:133130 ] - [ INFO ]  请求到的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7
+2021-12-23 22:15:35  [ http-nio-8081-exec-5:133130 ] - [ INFO ]  存储的结果为:org.apache.catalina.session.StandardSessionFacade@271b96b7

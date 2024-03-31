@@ -1,0 +1,112 @@
+spring:
+  web:
+    resources:
+      add-mappings: false
+      static-locations: classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/
+  datasource:
+    username: root
+    password: ${enroll.dbpass}
+    # url: jdbc:mysql://120.77.80.71:3306/javaee?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+
+    url: jdbc:mysql://localhost:3306/${enroll.database}?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      # 连接池的配置信息
+      # 初始化大小，最小，最大
+      initial-size: 5
+      min-idle: 5
+      maxActive: 20
+      # 配置获取连接等待超时的时间
+      maxWait: 60000
+      # 配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒
+      timeBetweenEvictionRunsMillis: 60000
+      # 配置一个连接在池中最小生存的时间，单位是毫秒
+      minEvictableIdleTimeMillis: 300000
+      validationQuery: SELECT 1
+      testWhileIdle: true
+      testOnBorrow: false
+      testOnReturn: false
+      # 打开PSCache，并且指定每个连接上PSCache的大小
+      poolPreparedStatements: true
+      maxPoolPreparedStatementPerConnectionSize: 20
+      # 配置监控统计拦截的filters，去掉后监控界面sql无法统计，'wall'用于防火墙
+      filters: stat,slf4j
+      # 通过connectProperties属性来打开mergeSql功能；慢SQL记录
+      connectionProperties: druid.stat.mergeSql\=true;druid.stat.slowSqlMillis\=5000
+      # 配置DruidStatFilter
+      web-stat-filter:
+        enabled: true
+        url-pattern: "/*"
+        exclusions: "*.js,*.gif,*.jpg,*.bmp,*.png,*.css,*.ico,/druid/*"
+      # 配置DruidStatViewServlet
+      stat-view-servlet:
+        url-pattern: "/druid/*"
+        # IP白名单(没有配置或者为空，则允许所有访问)
+        allow: 127.0.0.1,192.168.163.1
+        # IP黑名单 (存在共同时，deny优先于allow)
+        reset-enable: false
+        # 登录名
+        login-username: admin
+        # 登录密码
+        login-password: admin123
+      filter:
+        wall:
+          config:
+            multi-statement-allow: true
+    initialization-mode: ALWAYS
+    schema:
+      - classpath:sql/javaee.sql
+
+    initialize: true
+  devtools:
+    restart:
+      enabled: true
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+    #配置国际化
+  messages:
+    basename: i18n.login
+  mvc:
+    throw-exception-if-no-handler-found: true
+
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+  mapper-locations:
+    - classpath:mapper/*.xml
+  type-aliases-package: com.pojo
+
+
+enroll:
+  #登录名及密码
+  login:
+    adminName: admin
+    adminPass: admin123
+  #数据库名
+  database: javaee
+  #数据库密码
+  dbpass: root
+server:
+  #端口
+  port: 8081
+
+
+#配置支付宝沙箱
+alipay:
+  #支付宝分配的ID
+  appId: 2021000118644898
+  #生成的私钥
+  privateKey: MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpcAepPHIQ0DZFIL3jvq3b4QqVUYDDTGEnyQtRqm7seMztaIha9mG62kasOURPjmmd6beO9TVF7PVxfLHgbEAfTR5Kpkjz0sH6UQHE1YxlYZmiQQBaxok8yTC2RmznowI1/XEWyrLbpdxxXlGODVyCEi+N8FCZdGuW98xluABIGZpoSteg3rHX+b+f0FY0+xKd3xcbbf+INY3Xqdrzz1xr9tsMdOdehTGCwW6PI1ExmncbBwbz+sl0/6/CTR1gX9qZw03xqUMUxA74yiJuUJ2SBXq+CXqaYnh0E7NN0rJbCqZ2dMtd4ej4RK4mLClrYDq1GuvhGF8w7YsKBOXJCOo9AgMBAAECggEAfbQUqvSiN2ERcjW5SzZSq/cIMAE4gyuuRKL918eW5a81cciEqN9zX/nCRtFxoYgpSTN0sAWxUUBcU6bMHJCS/eXr3DwDkYjByqDArDQ2JZzEK0EIL1BtzoAAuKoE79Daug1eEietjBFAO4dbAAVfpUwypZ4tXbumemk65hgddV7783VUeZ0mK7U27mMYULcYDwDUIzc/p2l19FiuonC/9t4Lbq/fBHZWqkIXeSgm+oE9TsYNNQyjTSPUGETcP7BJJHiyqb2UkuWFsNnMpM4be8arH3I7dnac4AcUWjSVtUxA6qIRrmKGY0TasG58GFNdH5lCNxyJB1AfV6uMogKQgQKBgQDaZNVfsD1znOmJ0+f6wisZViLtpDVQIvI6nRIaHAOP0WgiBs6tQ0Vp28CiJ8Qoajd/mzyVzGbz/gQvrtNRv7x1VtMm9UCxXyWibjcVgAy3s3DdphygU5QK8PQxmAwB01LzkOY7nwbiGqXJrqodHdSBHNoa/LE9Kgr/o+JdaBZnXQKBgQDGnR9nVsr0i3dk+u5fJUpdZyyYOXq/m+OUnQMYZx+tX1xT6mJq90PJOpE63zhy320pRsWadwZt7O2FGTxz9BmBd/BHJ3ShUCL3qCbdERXc1b/9MDOEf0/vOlj2xnz+KT0fnQtfK+myaFDQltG+rclHOq2DFg93YymMOgi15L7AYQKBgHtqHfY8Fw39bzAXEvHuxgJEXeqjMAmAJhifaHpeuFiOguUvqZ3Z9SD0MTCxfjVEiOZQqHUSlF9vfZggmISK8InyrdJHJ+7UEOVwmSpKOWWaPr7SvzyO3ossTSK1hJuHe0nu6Vxp6q7dVjDZxoI7uDnaPxqfD927o4mBaEtWpcp1AoGBAKlYOPl8mGnwLGnuRqbbfc+r8+sLP2z2dxI02fnJm8nQgEGQnD/F+ocuJ7xBrbjMZiAGlt/AUrwRgue0f8YCQGkSoc2Zh6kvUdFGD3T4Z2K24g74NUTo5Hf+kPJAhTyUXuiAl7ybDZSvuxBPOCFTvkW8c0tM2P0bkMZeiSTGGBqhAoGBAIyG1xJPQA+O/TK92MXJ+xSDXQiczvRqhuNkET8bC93Sy7/tJolQ6fdUPAVqF0bDioaOxAnmXGbFGBsJQv7s/01A/V/NWf2b5sHuHDz4A1num//jGnVdXc15BvRdn7Ji5bwluWATmXGyeG61rRwO1e9KKVEWc+ZwtQdAXB2OvehQ
+  #生成的应用公钥
+  publicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqXYUI8m7yS4FtnRjn4Vw65MuSvuhzL9NSgTA1V1WRzOSCzNO6mqbMCMMqrZgU3Cj+G8CPESQaE3pLu/ce40mAmaiObYH80j9EHW4YqL6bALznZJYKsbLzOTQAnztDaaPbVP1pnJnzMS/cFqr6SrLFRRk/3BoB7QaY+Q2QCF4xcG1EU6llG0MSi1tGFDPt8p6aH6YFCAz8PeW+Vg4CFmzaosCbaop6L6JR5usH2l2b+Vjh63JWXid2D6Jk5gtdiYpJhREu+jpl/TfNLutBfGOwCm0tYDSN4NN2xvpRHRb5vAd2YiLAWzjqtSC+jiWR2JnWqm1de3BeJ4iPkQalenf3wIDAQAB
+  #支付宝网关配置
+  gateway: openapi.alipaydev.com
+  #接口回调地址（部署服务器后挂载为：服务器IP/alipay/notify (端口号为后端运行的端口号)
+  notifyUrl: http://120.77.80.71:8081/alipay/notify
+
+
+
+

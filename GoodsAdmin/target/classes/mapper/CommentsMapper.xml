@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mapper.CommentsMapper">
+    <!--    根据cid来查询一条评论-->
+    <select id="selectCommentsBycId" parameterType="Integer" resultType="Comments">
+        select * from comment where cId = #{cId}
+    </select>
+
+    <!--    根据userId查询一个用户的评论-->
+    <select id="selectCommentsByuserId" parameterType="Integer" resultType="Comments">
+        select * from comment where userId = #{userId}
+    </select>
+    <!-- 根据Bygoodsid查询商品评论-->
+    <select id="selectCommentsbyGoodsId" parameterType="Integer" resultType="Comments">
+        select * from comment where byGoodsId= #{byGoodsId}
+    </select>
+    <!--    查询所有评论信息-->
+    <select id="selectAllComments" resultType="Comments">
+        select * from comment
+    </select>
+
+    <!--    修改一个评论信息-->
+    <update id="updateComments" parameterType="Comments">
+        update comment set userId=#{userId},byGoodsId=#{byGoodsId},nickName=#{nickName},picUrl=#{picUrl},content = #{content},time=#{time} where cId = #{cId}
+    </update>
+
+    <!-- 添加评论信息 -->
+    <select id="addComments" parameterType="Comments">
+        insert into comment (userId,byGoodsId,nickName,picUrl,content,time) values (#{userId},#{byGoodsId},#{nickName},#{picUrl},#{content},#{time})
+    </select>
+    <!--    删除一个评论-->
+    <delete id="deleteCommentsBycId" parameterType="Integer">
+        delete from comment where cId = #{cId}
+    </delete>
+
+    <!--    根据用户id，删除评论-->
+    <delete id="deleteCommentsByuserId" parameterType="Integer">
+        delete from comment where userId = #{userId}
+    </delete>
+
+    <!--    根据关键词查询一个评论列表-->
+    <select id="searchComments"  resultType="Comments">
+        SELECT * FROM comment WHERE content like '%${keyword}%'
+    </select>
+</mapper>

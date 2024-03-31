@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="com.mapper.OrderMapper">
+    <!--    生成订单-->
+    <insert id="addOrder">
+        insert into javaee.`orders` (userId,cartList,orderName,orderTime,amount,status)  values (#{userId},#{cartList},#{orderName},#{orderTime},#{amount},#{status})
+    </insert>
+
+
+    <!--    根据orderId查询一个订单-->
+    <select id="selectOrderByorderId" parameterType="Integer" resultType="Orders">
+        select * from javaee.`orders` where orderId = #{orderId}
+    </select>
+
+    <!--    根据userId查询一个订单-->
+    <select id="selectOrderByuserId" parameterType="Integer" resultType="Orders">
+        select * from javaee.`orders` where userId = #{userId}
+    </select>
+
+    <!--    查询所有订单信息-->
+    <select id="selectAllOrder" resultType="Orders">
+        select * from javaee.`orders`
+    </select>
+
+
+    <!--    修改一个订单信息-->
+    <update id="updateOrder" parameterType="Orders">
+        update javaee.`orders` set userId = #{userId},orderName=#{orderName},cartList=#{cartList},orderTime = #{orderTime},status = #{status},amount = #{amount} where orderId = #{orderId}
+    </update>
+
+
+    <!--    删除一个订单-->
+    <delete id="deleteOrderById" parameterType="Integer">
+        delete from javaee.`orders` where orderId = #{orderId}
+    </delete>
+
+    <!--    根据orderId查询一个订单-->
+    <select id="searchOrderById"  resultType="Orders">
+        SELECT * FROM javaee.`orders` WHERE orderId = #{orderId}
+    </select>
+
+    <!--    <select id="selectCartByid" resultType="OrderInfo">-->
+    <!--        select * from javaee.orders where userId=#{userId}-->
+    <!--    </select>-->
+
+    <select id="searchCart" parameterType="Integer" resultType="Orders">
+        SELECT * FROM orders
+        WHERE userId=#{userId} and
+        cartId in
+        <foreach collection="cartIdList" item="item" index="index" open="(" close=")" separator=",">
+            #{item}
+        </foreach>)
+    </select>
+
+    <update id="updateStatus">
+        update orders set status=1  where orderTime=#{orderTime}
+    </update>
+
+    <!--    根据关键词查询一个货物列表-->
+    <select id="searchOrder"  resultType="Orders">
+        SELECT * FROM orders WHERE orderName like '%${keyword}%'
+    </select>
+
+</mapper>

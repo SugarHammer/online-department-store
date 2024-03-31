@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--namespace = 绑定一个对应的Dao/Mapper接口-->
+<!--接口实现类由原来的接口实现类AdvertDaoImpl转变一个Mapper配置文件-->
+<mapper namespace="com.mapper.AdvertMapper">
+    <!--    根据aId查询一个广告列表-->
+    <select id="selectAdvertById" parameterType="Integer" resultType="Advert">
+        select * from Advert where aId = #{aId}
+    </select>
+
+    <!--    根据adContent查询一个广告列表-->
+    <select id="selectAdvertByName" parameterType="String" resultType="Advert">
+        select * from Advert where adContent = #{adContent}
+    </select>
+
+    <!--    查询所有广告信息-->
+    <select id="selectAllAdvert" resultType="Advert">
+        select * from Advert
+    </select>
+
+    <!--    添加数据到广告表-->
+    <insert id="addAdvert" parameterType="Advert">
+        insert into Advert (adContent,adPicUrl) values(#{adContent},#{adPicUrl})
+    </insert>
+
+    <!--    修改一个广告信息-->
+    <update id="updateAdvert" parameterType="Advert">
+        update Advert set adContent = #{adContent},adPicUrl = #{adPicUrl} where aid = #{aId}
+    </update>
+
+    <!--    删除一个广告-->
+    <delete id="deleteAdvertById" parameterType="Integer">
+        delete from Advert where aid = #{aId}
+    </delete>
+
+    <!--    根据name，删除一个广告-->
+    <delete id="deleteAdvertByName" parameterType="String">
+        delete from Advert where adContent = #{adContent}
+    </delete>
+
+    <!--    根据关键词查询一个广告列表-->
+    <select id="searchAdvert"  resultType="Advert">
+        SELECT * FROM Advert WHERE adContent like '%${keyword}%'
+    </select>
+
+</mapper>
+

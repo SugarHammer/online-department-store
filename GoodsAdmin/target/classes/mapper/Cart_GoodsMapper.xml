@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="com.mapper.Cart_GoodsMapper">
+
+
+    <select id="queryGoodsByUserId" resultType="com.pojo.Cart_Goods">
+        select a.*,b.num,b.cartId from goods a left join cart b on a.gid = b.goodsId WHERE b.userId=#{userId}
+    </select>
+
+    <select id="selectGnameBycartId" resultType="java.lang.String">
+        select a.gname from goods a left join cart b on b.goodsId=a.gid where b.cartId=#{cartId}
+    </select>
+
+</mapper>

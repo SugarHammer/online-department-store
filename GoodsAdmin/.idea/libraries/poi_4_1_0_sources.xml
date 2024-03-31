@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="poi-4.1.0-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Environment/apache-maven-3.8.6-bin/repository/org/apache/poi/poi/4.1.0/poi-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Environment/apache-maven-3.8.6-bin/repository/org/apache/poi/poi/4.1.0/poi-4.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

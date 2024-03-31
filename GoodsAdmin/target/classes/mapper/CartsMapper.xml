@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="com.mapper.CartMapper">
+
+    <insert id="insertShoppingCart">
+        insert into cart(goodsId,num,userId,sumprice) values (#{goodsId},#{num},#{userId},#{sumprice})
+    </insert>
+
+    <insert id="addCart">
+        insert into cart(userId,cartId,num,sumprice) values (#{userId},#{cartId},#{num},#{sumprice})
+    </insert>
+
+    <update id="updateCart">
+        update cart set userId=#{userId},goodsId=#{goodsId},num=#{num},sumprice=#{sumprice} where cartId=#{cartId}
+    </update>
+
+    <update id="updateCartprice">
+        update cart set num=#{num},sumprice=#{sumprice} where cartId=#{cartId}
+    </update>
+
+
+    <select id="addCartOrder" resultType="com.pojo.Cart"  >
+        SELECT * FROM cart
+        WHERE (userId=#{userId} and
+        cartId in
+        <foreach collection="cartIdList" item="item" index="index" open="(" close=")" separator=",">
+            #{item}
+        </foreach>)
+
+    </select>
+
+
+    <select id="queryCartById" resultType="com.pojo.Cart">
+        select * from cart where cartId=#{cartId}
+    </select>
+
+<!--    <select id="queryCartByUserId" resultType="com.pojo.Goods">-->
+<!--        select * from goods where gid in(select goodsId from cart where userId=#{userId})-->
+<!--    </select>-->
+
+    <select id="queryGoodsByCartId" resultType="com.pojo.Goods">
+        select * from goods where cartId=#{cartId}
+    </select>
+
+    <select id="selectGoodsIdByList" resultType="java.lang.Integer">
+        select goodsId from cart where cartId in
+        <foreach collection="cartIdList" item="item" index="index" open="(" close=")" separator=",">
+            #{item}
+        </foreach>
+    </select>
+
+    <select id="selectAllCart" resultType="com.pojo.Cart">
+        select * from cart
+    </select>
+
+    <delete id="deleteGoods">
+        delete from cart where (userId=#{userId} and cartId=#{cartId})
+    </delete>
+
+    <delete id="deleteCart">
+        delete from cart where (cartId=#{cartId})
+    </delete>
+
+
+    <select id="selectCartById" resultType="com.pojo.Cart">
+        select * from cart where cartId=#{cartId}
+    </select>
+
+    <delete id="deleteAllCart">
+        delete  from cart where cartId in
+        <foreach collection="cartIdList" item="item" index="index" open="(" close=")" separator=",">
+            #{item}
+        </foreach>
+    </delete>
+
+
+</mapper>

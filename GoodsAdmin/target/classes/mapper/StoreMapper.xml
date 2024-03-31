@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--namespace = 绑定一个对应的Dao/Mapper接口-->
+<!--接口实现类由原来的接口实现类AdvertDaoImpl转变一个Mapper配置文件-->
+<mapper namespace="com.mapper.StoreMapper">
+    <!--    根据Id查询一个商家列表-->
+    <select id="selectStoreById" parameterType="Integer" resultType="Store">
+        select * from Store where id = #{id}
+    </select>
+
+    <!--    根据name查询一个商家列表-->
+    <select id="selectStoreByName" parameterType="String" resultType="Store">
+        select * from Store where name = #{name}
+    </select>
+
+    <!--    查询所有商家信息-->
+    <select id="selectAllStore" resultType="Store">
+        select * from Store
+    </select>
+
+    <!--    添加数据到商家表-->
+    <insert id="addStore" parameterType="Store">
+        insert into Store (name,descp,url) values(#{name},#{descp},#{url})
+    </insert>
+
+    <!--    修改一个商家信息-->
+    <update id="updateStore" parameterType="Store">
+        update Store set name=#{name},descp = #{descp},url = #{url} where id = #{id}
+    </update>
+
+    <!--    删除一个商家-->
+    <delete id="deleteStoreById" parameterType="Integer">
+        delete from Store where id = #{id}
+    </delete>
+
+    <!--    根据name，删除一个商家-->
+    <delete id="deleteStoreByName" parameterType="String">
+        delete from Store where name = #{name}
+    </delete>
+
+    <!--    根据关键词查询一个商家列表-->
+    <select id="searchStore"  resultType="Store">
+        SELECT * FROM Store WHERE descp like '%${keyword}%'
+    </select>
+
+</mapper>
+

@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "name": "alipay",
+      "type": "com.configuration.AliPayConfig",
+      "sourceType": "com.configuration.AliPayConfig"
+    },
+    {
+      "name": "enroll.login",
+      "type": "com.configuration.LoginProperties",
+      "sourceType": "com.configuration.LoginProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "alipay.app-id",
+      "type": "java.lang.String",
+      "sourceType": "com.configuration.AliPayConfig"
+    },
+    {
+      "name": "alipay.gateway",
+      "type": "java.lang.String",
+      "sourceType": "com.configuration.AliPayConfig"
+    },
+    {
+      "name": "alipay.notify-url",
+      "type": "java.lang.String",
+      "sourceType": "com.configuration.AliPayConfig"
+    },
+    {
+      "name": "alipay.private-key",
+      "type": "java.lang.String",
+      "sourceType": "com.configuration.AliPayConfig"
+    },
+    {
+      "name": "alipay.public-key",
+      "type": "java.lang.String",
+      "sourceType": "com.configuration.AliPayConfig"
+    },
+    {
+      "name": "enroll.login.admin-name",
+      "type": "java.lang.String",
+      "sourceType": "com.configuration.LoginProperties"
+    },
+    {
+      "name": "enroll.login.admin-pass",
+      "type": "java.lang.String",
+      "sourceType": "com.configuration.LoginProperties"
+    }
+  ],
+  "hints": []
+}
